@@ -1,0 +1,51 @@
+Ecosystem_type,RS_component,Manipulation,Rs_mean,RS_sd
+Cropland,Ra,Fertilized,348.1583333,92.81976156
+Cropland,Ra,Rotation,58.76666667,24.24341835
+Cropland,Rh,Fertilized,275.6852143,184.5668433
+Cropland,Rh,Litter manipulation,465.375,2.580939751
+Cropland,Rh,Rotation,349.32,159.2230071
+Cropland,Rs,Conventional tillage,487.44,294.9693477
+Cropland,Rs,Fertilized,514.2792,256.546149
+Cropland,Rs,Irrigated,966.4470588,123.2025219
+Cropland,Rs,No-till,733.8435294,302.2868251
+Cropland,Rs,Reduced tillage,371.6147059,135.0309012
+Cropland,Rs,Rotation,683.2566667,376.0718646
+Cropland,Rs,Thinned,417.5,53.03300859
+Cropland,Rs,Warmed,594.008125,171.8589621
+Grassland,Ra,Fertilized,174.534,93.09730463
+Grassland,Ra,None,116.218,105.4039589
+Grassland,Rh,Fertilized,208.0433333,52.34798874
+Grassland,Rh,Frenched,892.836,40.62752722
+Grassland,Rh,Grazing,491.51657,84.42221257
+Grassland,Rh,None,213.6663636,107.2823529
+Grassland,Rh,Understory removal,254.8333333,31.9024555
+Grassland,Rh,Warmed,773.388,68.95988173
+Grassland,Rs,Clip,719.8475,56.14481002
+Grassland,Rs,Fertilized,754.34975,481.3784942
+Grassland,Rs,Grazing,871.2882609,468.2689097
+Grassland,Rs,None,663.9732867,442.4677761
+Grassland,Rs,Rotation,254.8333333,31.9024555
+Grassland,Rs,Warmed,1528.695,175.9321671
+Forest,Ra,Fertilized,316.237,121.9876032
+Forest,Ra,Litter manipulation,216.44,143.4578238
+Forest,Ra,None,400.6732394,261.456104
+Forest,Ra,Plantation,260.6552,184.5560561
+Forest,Ra,Understory removal,280.5,125.1579003
+Forest,Ra,Weed control,302.725,38.57267491
+Forest,Rh,TFR,453,50.91168825
+Forest,Rh,Fertilized,409.8778947,298.6184263
+Forest,Rh,Girdling,454,31.11269837
+Forest,Rh,None,576.2809515,296.1537191
+Forest,Rh,Plantation,516.88975,361.6012595
+Forest,Rh,Understory removal,260,7.071067812
+Forest,Rs,Clearcut,498.6923077,78.3426072
+Forest,Rs,CO2 Fertilized,1343.516667,121.9145999
+Forest,Rs,TFR,571.5,6.363961031
+Forest,Rs,Fertilized,749.4303071,322.8133574
+Forest,Rs,Litter manipulation,870.5054167,383.2671426
+Forest,Rs,None,924.7907277,372.6883599
+Forest,Rs,Plantation,715.469406,377.8814413
+Forest,Rs,Thinned,578.3605263,232.9710852
+Forest,Rs,Understory removal,731.0017425,189.231123
+Forest,Rs,Warmed,1034.073333,148.9423789
+Forest,Rs,Weed control,893.185,44.35680838
