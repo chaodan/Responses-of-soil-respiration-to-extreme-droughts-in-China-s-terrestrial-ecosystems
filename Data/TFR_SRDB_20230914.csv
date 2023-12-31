@@ -1,0 +1,580 @@
+BH,Site_name,Study_midyear,YearsOfData,Latitude,Longitude,Elevation,Manipulation,Manipulation_level,Biome,Ecosystem_type,Ecosystem_state,Leaf_habit,MAT,MAP,RS,RS_component,SPEI,LogRS
+17,Xinkou Experimental Forestry Centre-Xiaohu,2003,1,26.19,117.43,,None,None,Subtropical,Forest,Natural,Evergreen,19.1,1749,669,Rh,-2.320547065,2.825426118
+18,Xinkou Experimental Forestry Centre-Xiaohu,2003,1,26.19,117.43,,Plantation,Cunninghamia lanceolata plantation,Subtropical,Forest,Managed,Evergreen,19.1,1749,487,Rh,-2.320547065,2.687528961
+19,Xinkou Experimental Forestry Centre-Xiaohu,2003,1,26.19,117.43,,Plantation,Cunninghamia lanceolata plantation,Subtropical,Forest,Managed,Evergreen,19.1,1749,245,Rh,-2.320547065,2.389166084
+21,Yao Jingzi Grassland Nature Reserve,2002,1,44.75,123.75,160,None,None,Temperate,Grassland,Natural,Deciduous,4.9,470,159,Rh,-2.329523087,2.201397124
+22,Yao Jingzi Grassland Nature Reserve,2002,1,44.75,123.75,160,None,None,Temperate,Grassland,Natural,Deciduous,4.9,470,139,Rh,-2.329523087,2.1430148
+26,Menglun Nature Reserve,2005,5,21.9275,101.2652778,750,None,None,Tropical,Forest,Natural,Mixed,21.7,1487,454,Rh,-2.287091167,2.657055853
+27,Tianjiling National Park,2007,1,28.1,113.0166667,80,Plantation,Cunninghamia lanceolata plantation,Subtropical,Forest,Managed,Evergreen,17.2,1422,352,Rh,-2.35308924,2.546542663
+38,Heshan Hilly Land Interdisciplinary Experimental Station,2007,1,22.56666667,112.8333333,,Girdling,Girdling,Subtropical,Forest,Managed,Evergreen,21.7,1295,476,Rh,-2.025274407,2.677606953
+39,Heshan Hilly Land Interdisciplinary Experimental Station,2007,1,22.56666667,112.8333333,,Girdling,Girdling,Subtropical,Forest,Managed,Evergreen,21.7,1295,432,Rh,-2.025274407,2.635483747
+40,Mt. Gonglushan,2010,1,36.42333333,109.5255,1353,Plantation,Robinia pseudoacacia plantation,Temperate,Forest,Managed,Deciduous,10.6,498,844,Rh,-2.193073463,2.926342447
+41,Mt. Gonglushan,2010,1,36.42333333,109.5255,1353,None,None,Temperate,Forest,Natural,Deciduous,10.6,498,1234,Rh,-2.193073463,3.09131516
+50,,2010,1,29.5,103.6,,Plantation,,Temperate,Forest,Managed,Evergreen,15,1489.8,87,Rh,-2.196029425,1.939519253
+51,Changwu Station,2008,1,35.2,104.67,1200,Understory removal,vegetation removed,Temperate,Grassland,Managed,Deciduous,9.4,560,293,Rh,-2.005802254,2.46686762
+53,Changwu Station,2010,1,35.2,104.67,1200,Understory removal,vegetation removed,Temperate,Grassland,Managed,Deciduous,9.4,560,238,Rh,-2.038397947,2.376576957
+56,Changwu Station,2013,1,35.2,104.67,1200,Understory removal,vegetation removed,Temperate,Grassland,Managed,Deciduous,9.4,560,240,Rh,-2.326266644,2.380211242
+58,Huitong National Research Station of Forest Ecosystem,2011,1,26.8,109.6,,None,None,Subtropical,Forest,Natural,Evergreen,16.5,1200,408,Rh,-2.183345246,2.610660163
+68,Dingmushan,2011,1,29.67,113.83,161,None,None,Subtropical,Forest,Natural,Evergreen,16.9,1430,636,Rh,-2.062870441,2.803457116
+69,West China Subalpine Botanical Garden,2010,1,30.73,103.45,,None,None,Subtropical,Forest,Natural,Evergreen,15.2,1243,521.5,Rh,-2.278928232,2.717254313
+73,Miyaluo Experimental Forest,2008,1,31.78,102.7,3215,None,None,Temperate,Forest,Natural,Evergreen,7.27,687.3,656,Rh,-2.469933232,2.816903839
+74,Miyaluo Experimental Forest,2008,1,31.78,102.7,3207,None,None,Temperate,Forest,Natural,Evergreen,7.27,687.3,543,Rh,-2.469933232,2.73479983
+75,Miyaluo Experimental Forest,2008,1,31.78,102.7,3135,None,None,Temperate,Forest,Natural,Evergreen,7.27,687.3,607,Rh,-2.469933232,2.783188691
+76,Miyaluo Experimental Forest,2008,1,31.78,102.7,3378,None,None,Temperate,Forest,Natural,Evergreen,7.27,687.3,712,Rh,-2.469933232,2.852479994
+81,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,562.7,Rh,-2.165864054,2.750276915
+82,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,642.3,Rh,-2.165864054,2.807737922
+83,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,665.1,Rh,-2.165864054,2.822886948
+84,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,655.5,Rh,-2.165864054,2.816572696
+94,Forest Ecosystem Open Research Station of Changbai Mountains,2004,1,42.4,128.4666667,738,None,None,Temperate,Forest,Natural,Mixed,3.5,732,404.94,Rh,-2.232085963,2.607390679
+106,Yanting Agro-ecological Station,2013,1,31.27,105.47,,Plantation,,Subtropical,Forest,Managed,Deciduous,17.3,826,404,Rh,-2.318369433,2.606381365
+107,Yanting Agro-ecological Station,2013,1,31.27,105.47,,Rotation,,Subtropical,Cropland,Managed,Deciduous,17.3,826,371,Rh,-2.318369433,2.56937391
+108,Yanting Agro-ecological Station,2013,1,31.27,105.47,,Plantation,,Subtropical,Forest,Managed,Deciduous,17.3,826,317,Rh,-2.318369433,2.501059262
+109,Yanting Agro-ecological Station,2013,1,31.27,105.47,,Rotation,,Subtropical,Cropland,Managed,Deciduous,17.3,826,331,Rh,-2.318369433,2.519827994
+110,Yanting Agro-ecological Station,2013,1,31.27,105.47,,Plantation,,Subtropical,Forest,Managed,Deciduous,17.3,826,385,Rh,-2.318369433,2.58546073
+111,Yanting Agro-ecological Station,2013,1,31.27,105.47,,Rotation,,Subtropical,Cropland,Managed,Deciduous,17.3,826,383,Rh,-2.318369433,2.583198774
+123,Dinghuashan,2009,1,23.15,112.51,200,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,856.92,Rh,-2.073767784,2.932940279
+124,Dinghuashan,2009,1,23.15,112.51,200,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,898.28,Rh,-2.073767784,2.95341173
+125,Dinghuashan,2009,1,23.15,112.51,250,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,938.72,Rh,-2.073767784,2.972536071
+126,Qinling,1998,1,33.38,108.33,,None,None,Subtropical,Forest,Natural,Evergreen,9,1000,1907.01,Rh,-2.126151659,3.28035297
+127,Qinling,1998,1,33.38,108.33,,None,None,Subtropical,Forest,Natural,Deciduous,9,1000,1361.98,Rh,-2.126151659,3.13417073
+130,Yulin,2009,1,38.77,110.37,1224,Weed control,,Temperate,Bare,Managed,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+131,Yulin,2009,1,38.77,110.37,1224,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+132,Yulin,2009,1,38.77,110.37,1224,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+133,Yulin,2009,1,38.77,110.37,1224,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+134,Yulin,2009,1,38.77,110.37,1224,Fertilized,None,Temperate,Grassland,Natural,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+135,Yulin,2009,1,38.77,110.37,1219,Fertilized,,Temperate,Grassland,Managed,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+136,Yulin,2009,1,38.77,110.37,1223,Fertilized,,Temperate,Grassland,Managed,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+137,Yulin,2009,1,38.77,110.37,1215,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+138,Yulin,2009,1,38.77,110.37,1183,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+139,Yulin,2009,1,38.77,110.37,1183,Fertilized,,Temperate,Grassland,Natural,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+140,Yulin,2009,1,38.77,110.37,1183,Fertilized,,Temperate,Grassland,Natural,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+141,Yulin,2009,1,38.77,110.37,1183,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,204.35,Rh,-2.364418816,2.310374642
+142,Tianjiling Changsha,2007,1,28.1,113.02,75,None,None,Subtropical,Forest,Natural,Evergreen,17.2,1422,358,Rh,-2.353648344,2.553883027
+162,National Forest Reserve ,2009,1,21.933,101.25,,None,None,Tropical,Forest,Natural,Evergreen,21.5,1557,805,Rh,-2.054972378,2.90579588
+173,Shiyan,2011,1,32.63,110.62,234,Fertilized,None,Subtropical,Cropland,Managed,Deciduous,15.3,834,292,Rh,-2.079788773,2.465382851
+174,Shiyan,2011,1,32.63,110.62,234,Fertilized,150 kg Urea ha-1,Subtropical,Cropland,Managed,Deciduous,15.3,834,294,Rh,-2.079788773,2.46834733
+175,Shiyan,2011,1,32.63,110.62,234,Fertilized,None,Subtropical,Cropland,Managed,Deciduous,15.3,834,272,Rh,-2.079788773,2.434568904
+176,Shiyan,2011,1,32.63,110.62,234,Fertilized,150 kg Urea ha-1,Subtropical,Cropland,Managed,Deciduous,15.3,834,247,Rh,-2.079788773,2.392696953
+177,Shiyan,2011,1,32.63,110.62,234,Fertilized,150 kg chicken manure ha-1,Subtropical,Cropland,Managed,Deciduous,15.3,834,316,Rh,-2.079788773,2.499687083
+178,Shiyan,2011,1,32.63,110.62,234,Fertilized,75 kg Urea and 75 kg chicken manure ha-1,Subtropical,Cropland,Managed,Deciduous,15.3,834,287,Rh,-2.079788773,2.457881897
+182,Haibei Grassland Ecological Monitoring Station,2013,1,36.95,100.85,3140,Warmed,Open-top chambers ,Temperate,Grassland,Managed,Deciduous,1.34,408.45,822.15,Rh,-2.511989613,2.914951061
+183,Haibei Grassland Ecological Monitoring Station,2013,1,36.95,100.85,3140,Warmed,Open-top chambers ,Temperate,Grassland,Managed,Deciduous,1.34,408.45,724.626,Rh,-2.511989613,2.860113913
+192,Yanting Agro-Ecological Station of Purple Soil,2013,1,31.27,105.47,500,Fertilized,NPK,Subtropical,Cropland,Managed,Deciduous,17.3,826,125.715,Rh,-2.318369433,2.0993871
+195,Yanting Agro-Ecological Station of Purple Soil,2013,1,31.27,105.47,500,Fertilized,RSDNPK,Subtropical,Cropland,Managed,Deciduous,17.3,826,205.326,Rh,-2.318369433,2.312443947
+198,Yanting Agro-Ecological Station of Purple Soil,2013,1,31.27,105.47,500,None,None,Subtropical,Forest,Natural,Evergreen,17.3,826,317.028,Rh,-2.318369433,2.501097621
+226,Haibei,2009,1,37.6,101.3,3198,Grazing,Warm-season grazing,Alpine,Grassland,Managed,Deciduous,-1.1,486,530.3966,Rh,-2.331973007,2.724600731
+227,Haibei,2009,1,37.6,101.3,3198,Grazing,Cold-season grazing,Alpine,Grassland,Managed,Deciduous,-1.1,486,551.9682,Rh,-2.331973007,2.741914058
+234,Haibei,2013,1,37.6,101.3,3198,Grazing,Warm-season grazing,Alpine,Grassland,Managed,Deciduous,-1.1,486,378.8073,Rh,-2.294977577,2.57841834
+235,Haibei,2013,1,37.6,101.3,3198,Grazing,Cold-season grazing,Alpine,Grassland,Managed,Deciduous,-1.1,486,386.8268,Rh,-2.294977577,2.587516555
+242,,2013,1,36.37,100.9,3570,None,None,Alpine,Grassland,Natural,Deciduous,1.5,310,53.13,Rh,-2.41486246,1.725339816
+271,Taoyuan agroecological experimental station,2007,1,28.91,111.45,,Rotation,,Subtropical,Cropland,Managed,Deciduous,16.5,1437,337,Rh,-2.010061874,2.527629901
+297,Xinkou Experimental Forestry Centre-Xiaohu,2003,1,26.19,117.43,,None,None,Subtropical,Forest,Natural,Evergreen,19.1,1749,578,Ra,-2.320547065,2.761927838
+298,Xinkou Experimental Forestry Centre-Xiaohu,2003,1,26.19,117.43,,Plantation,,Subtropical,Forest,Managed,Evergreen,19.1,1749,356,Ra,-2.320547065,2.551449998
+299,Xinkou Experimental Forestry Centre-Xiaohu,2003,1,26.19,117.43,,Plantation,,Subtropical,Forest,Managed,Evergreen,19.1,1749,155,Ra,-2.320547065,2.190331698
+304,Menglun Nature Reserve,2005,5,21.9275,101.2652778,750,None,None,Tropical,Forest,Natural,Mixed,21.7,1487,432,Ra,-2.287091167,2.635483747
+305,Tianjiling National Park,2007,1,28.1,113.0166667,80,Plantation,,Subtropical,Forest,Managed,Evergreen,17.2,1422,91,Ra,-2.35308924,1.959041392
+316,Heshan Hilly Land Interdisciplinary Experimental Station,2007,1,22.56666667,112.8333333,,Fertilized,C. alata addition,Subtropical,Forest,Managed,Evergreen,21.7,1295,245,Ra,-2.025274407,2.389166084
+317,Heshan Hilly Land Interdisciplinary Experimental Station,2007,1,22.56666667,112.8333333,,Fertilized,C. alata addition,Subtropical,Forest,Managed,Evergreen,21.7,1295,176,Ra,-2.025274407,2.245512668
+318,Mt. Gonglushan,2010,1,36.42333333,109.5255,,Plantation,,Temperate,Forest,Managed,Deciduous,10.6,498,329,Ra,-2.193073463,2.517195898
+319,Mt. Gonglushan,2010,1,36.42333333,109.5255,1353,None,None,Temperate,Forest,Natural,Deciduous,10.6,498,401,Ra,-2.193073463,2.603144373
+325,,2010,1,29.5,103.6,,Plantation,,Temperate,Forest,Managed,Evergreen,15,1489.8,208,Ra,-2.196029425,2.318063335
+327,Huitong National Research Station of Forest Ecosystem,2011,1,26.8,109.6,,None,None,Subtropical,Forest,Natural,Evergreen,16.5,1200,103,Ra,-2.183345246,2.012837225
+333,Dingmushan,2011,1,29.67,113.83,161,None,None,Subtropical,Forest,Natural,Evergreen,16.9,1430,261,Ra,-2.062870441,2.416640507
+334,West China Subalpine Botanical Garden,2010,1,30.73,103.45,,None,None,Subtropical,Forest,Natural,Evergreen,15.2,1243,561.97,Ra,-2.278928232,2.749713132
+338,Miyaluo Experimental Forest,2008,1,31.78,102.7,3215,None,Betula platyphylla plantation,Temperate,Forest,Natural,Evergreen,7.27,687.3,348,Ra,-2.469933232,2.541579244
+339,Miyaluo Experimental Forest,2008,1,31.78,102.7,3207,None,Quercus wutaishanica plantation,Temperate,Forest,Natural,Evergreen,7.27,687.3,249,Ra,-2.469933232,2.396199347
+340,Miyaluo Experimental Forest,2008,1,31.78,102.7,3135,None,Pinus tabulaeformis plantation,Temperate,Forest,Natural,Evergreen,7.27,687.3,345,Ra,-2.469933232,2.537819095
+341,Miyaluo Experimental Forest,2008,1,31.78,102.7,3378,None,None,Temperate,Forest,Natural,Evergreen,7.27,687.3,358,Ra,-2.469933232,2.553883027
+346,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,219.3,Ra,-2.165864054,2.341038632
+347,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,141.8,Ra,-2.165864054,2.151676231
+348,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,120.6,Ra,-2.165864054,2.081347308
+349,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,102.1,Ra,-2.165864054,2.009025742
+359,Forest Ecosystem Open Research Station of Changbai Mountains,2004,1,42.4,128.4666667,738,None,None,Temperate,Forest,Natural,Mixed,3.5,732,333,Ra,-2.232085963,2.522444234
+367,Dinghuashan,2009,1,23.15,112.51,200,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,558.94,Ra,-2.073767784,2.747365191
+368,Dinghuashan,2009,1,23.15,112.51,200,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,448.21,Ra,-2.073767784,2.651481542
+369,Dinghuashan,2009,1,23.15,112.51,250,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,753.34,Ra,-2.073767784,2.876991028
+370,Qinling,1998,1,33.38,108.33,,None,None,Subtropical,Forest,Natural,Evergreen,9,1000,627.72,Ra,-2.126151659,2.797765966
+371,Qinling,1998,1,33.38,108.33,,None,None,Subtropical,Forest,Natural,Deciduous,9,1000,695.23,Ra,-2.126151659,2.842128504
+374,Yulin,2009,1,38.77,110.37,1224,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,264.9,Ra,-2.364418816,2.423081958
+375,Yulin,2009,1,38.77,110.37,1224,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,454.12,Ra,-2.364418816,2.657170629
+376,Yulin,2009,1,38.77,110.37,1224,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,446.55,Ra,-2.364418816,2.649870094
+377,Yulin,2009,1,38.77,110.37,1224,None,None,Temperate,Grassland,Natural,Deciduous,8.4,437,370.87,Ra,-2.364418816,2.569221704
+378,Yulin,2009,1,38.77,110.37,1219,Fertilized,,Temperate,Grassland,Managed,Deciduous,8.4,437,268.69,Ra,-2.364418816,2.429251503
+379,Yulin,2009,1,38.77,110.37,1223,Fertilized,,Temperate,Grassland,Managed,Deciduous,8.4,437,276.26,Ra,-2.364418816,2.441318007
+380,Yulin,2009,1,38.77,110.37,1215,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,234.63,Ra,-2.364418816,2.370383541
+381,Yulin,2009,1,38.77,110.37,1183,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,378.43,Ra,-2.364418816,2.577985558
+382,Yulin,2009,1,38.77,110.37,1183,None,None,Temperate,Grassland,Natural,Deciduous,8.4,437,174.08,Ra,-2.364418816,2.240748878
+383,Yulin,2009,1,38.77,110.37,1183,None,None,Temperate,Grassland,Natural,Deciduous,8.4,437,162.73,Ra,-2.364418816,2.211467624
+384,Yulin,2009,1,38.77,110.37,1183,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,310.32,Ra,-2.364418816,2.491809767
+385,Tianjiling Changsha,2007,1,28.1,113.02,75,None,None,Subtropical,Forest,Natural,Evergreen,17.2,1422,138,Ra,-2.353648344,2.139879086
+411,Chibi,2011,1,29.7,113.88,160,None,None,Temperate,Forest,Natural,Evergreen,16.9,1429.5,1070,Ra,-2.061055228,3.029383778
+412,Chibi,2011,1,29.7,113.88,158,None,None,Temperate,Forest,Natural,Evergreen,16.9,1429.5,1250,Ra,-2.061055228,3.096910013
+413,Xianning city,2011,1,29.6,114.25,,Weed control,Herbicide,Temperate,Forest,Managed,Evergreen,17.1,1496.2,330,Ra,-2.162236476,2.51851394
+414,Xianning city,2011,1,29.6,114.25,,Weed control,,Temperate,Forest,Managed,Evergreen,17.1,1496.2,275.45,Ra,-2.162236476,2.440042777
+415,Huitong Experimental Station of Forest Ecology,2013,1,26.92,109.98,700,Plantation,,Subtropical,Forest,Managed,Evergreen,16.5,1200,696.31,Ra,-2.469855595,2.842802632
+416,Huitong Experimental Station of Forest Ecology,2013,1,26.92,109.98,700,Plantation,,Subtropical,Forest,Managed,Evergreen,16.5,1200,688.75,Ra,-2.469855595,2.838061612
+453,Yingtan Ecological Experimental Station,1999,1,28.26,116.93,,Rotation,,Subtropical,Cropland,Managed,Deciduous,17.6,1795,450,Rs,-2.281969769,2.653212514
+454,Haibei Research Station,1998,1,37.53,101.25,3240,Grazing,2.55 sheep/ha,Temperate,Grassland,Managed,Deciduous,-1.7,560,555,Rs,-2.782881231,2.744292983
+455,Haibei Research Station,1998,1,37.53,101.25,3240,Grazing,5.35 sheep/ha,Temperate,Grassland,Managed,Deciduous,-1.7,560,418,Rs,-2.782881231,2.621176282
+456,Ecological Station of Red Soil (Yingtan),1999,1,28.26,116.93,,Rotation,millet¨Cbarley rotation,Subtropical,Cropland,Managed,Deciduous,17.6,1795,581,Rs,-2.281969769,2.764176132
+457,Ecological Station of Red Soil (Yingtan),1999,1,28.26,116.93,,Rotation,millet¨Cbarley rotation,Subtropical,Cropland,Managed,Deciduous,17.6,1795,385,Rs,-2.281969769,2.58546073
+458,Ecological Station of Red Soil (Yingtan),1999,1,28.26,116.93,,Rotation,millet¨Cbarley rotation,Subtropical,Cropland,Managed,Deciduous,17.6,1795,775,Rs,-2.281969769,2.889301703
+480,Xinkou Experimental Forestry Centre-Xiaohu,2003,1,26.19,117.43,,None,None,Subtropical,Forest,Natural,Evergreen,19.1,1749,1246,Rs,-2.320547065,3.095518042
+481,Xinkou Experimental Forestry Centre-Xiaohu,2003,1,26.19,117.43,,Plantation,,Subtropical,Forest,Managed,Evergreen,19.1,1749,843,Rs,-2.320547065,2.925827575
+482,Xinkou Experimental Forestry Centre-Xiaohu,2003,1,26.19,117.43,,Plantation,,Subtropical,Forest,Managed,Evergreen,19.1,1749,399,Rs,-2.320547065,2.600972896
+483,Xishuangbanna Station for Tropical Rain Forest Ecosystem Studies,2003,1,21.93,101.27,,None,None,Tropical,Forest,Natural,Evergreen,21.4,1557,1274,Rs,-2.066229255,3.105169428
+484,Changbai Mountains Forest Ecosystem Open Research Station,2002,1,42.4,128.47,,None,None,Temperate,Forest,Natural,Mixed,2.5,705,503,Rs,-2.274972764,2.701567985
+485,Dinghushan Mountain National Reserve,2003,2,23.17,112.53,,None,None,Subtropical,Forest,Natural,Evergreen,20.8,1956,590,Rs,-2.159971929,2.770852012
+486,Dinghushan Mountain National Reserve,2003,2,23.17,112.53,,None,None,Subtropical,Forest,Natural,Evergreen,20.8,1956,933,Rs,-2.159971929,2.969881644
+487,Dinghushan Mountain National Reserve,2003,2,23.17,112.53,,None,None,Subtropical,Forest,Natural,Evergreen,20.8,1956,1075,Rs,-2.159971929,3.031408464
+488,Ecological Station of Red Soil,1999,1,28.26,116.93,,Rotation,millet¨Cbarley rotation,Subtropical,Cropland,Managed,Deciduous,17.6,1795,679,Rs,-2.281969769,2.831869774
+490,Xilin Gol Nature Reserve,2002,1,43.54,116.55,1130,None,None,Temperate,Grassland,Natural,Deciduous,-0.5,400,119,Rs,-2.27629742,2.075546961
+493,Dinghushan Biosphere Reserve,2003,1,23.18,112.54,250,None,None,Subtropical,Forest,Natural,Evergreen,20.9,1956,578,Rs,-2.165579527,2.761927838
+494,Dinghushan Biosphere Reserve,2003,1,23.18,112.54,260,None,None,Subtropical,Forest,Natural,Evergreen,20.9,1956,1001,Rs,-2.165579527,3.000434077
+495,Dinghushan Biosphere Reserve,2003,1,23.18,112.54,260,None,None,Subtropical,Forest,Natural,Evergreen,20.9,1956,1586,Rs,-2.165579527,3.200303183
+499,Dinghushan Nature Reserve,2003,2,23.17,112.53,550,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,600,Rs,-2.159971929,2.77815125
+500,Dinghushan Nature Reserve,2003,2,23.17,112.53,550,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,913,Rs,-2.159971929,2.960470778
+501,Dinghushan Nature Reserve,2003,2,23.17,112.53,550,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,1077,Rs,-2.159971929,3.032215703
+502,,2002,1,43.55,116.78,1225,None,None,Temperate,Grassland,Natural,Deciduous,0.3,400,409,Rs,-2.271092713,2.611723308
+503,,2002,1,44.09,115.91,923,None,None,Temperate,Grassland,Natural,Deciduous,1.5,250,111,Rs,-2.3248835,2.045322979
+510,Xishuangbanna,2003,1,21.95,101.2,,None,None,Tropical,Forest,Natural,Evergreen,21.5,1557,720,Rs,-2.06867837,2.857332496
+511,Xishuangbanna,2003,1,21.93,101.25,,Litter manipulation,Litter removal,Tropical,Forest,Managed,Evergreen,21.5,1557,764,Rs,-2.064978685,2.883093359
+523,Liupan Mountain,2001,1,35.5,106.33,1950,Plantation,,Temperate,Forest,Managed,,5.8,538,396,Rs,-2.059260318,2.597695186
+524,Liupan Mountain,2001,1,35.5,106.33,1950,None,None,Temperate,Forest,Natural,Deciduous,5.8,538,406,Rs,-2.059260318,2.608526034
+525,Liupan Mountain,2001,1,35.5,106.33,1950,None,None,Temperate,Forest,Natural,Deciduous,5.8,538,451,Rs,-2.059260318,2.654176542
+526,Liupan Mountain,2001,1,35.5,106.33,1950,Rotation,,Temperate,Cropland,Managed,Deciduous,5.8,538,191,Rs,-2.059260318,2.281033367
+528,Liupan Mountain,2001,1,35.5,106.33,1950,Plantation,,Temperate,Forest,Managed,Deciduous,5.8,538,431,Rs,-2.059260318,2.63447727
+529,Liupan Mountain,2001,1,35.5,106.33,1950,Plantation,,Temperate,Forest,Managed,Deciduous,5.8,538,411,Rs,-2.059260318,2.613841822
+530,Liupan Mountain,2001,1,35.5,106.33,1950,Plantation,,Temperate,Forest,Managed,Deciduous,5.8,538,555,Rs,-2.059260318,2.744292983
+533,Yao Jingzi Grassland Nature Reserve,2002,1,44.75,123.75,160,None,None,Temperate,Grassland,Natural,Deciduous,4.9,470,361,Rs,-2.329523087,2.557507202
+534,Yao Jingzi Grassland Nature Reserve,2002,1,44.75,123.75,160,None,None,Temperate,Grassland,Natural,Deciduous,4.9,470,240,Rs,-2.329523087,2.380211242
+535,Dinghushan-MPF,2003,1,23.15,112.54,250,None,None,Subtropical,Forest,Natural,Evergreen,20.9,1956,592,Rs,-2.155355369,2.772321707
+536,Dinghushan-MF,2003,1,23.15,112.54,260,None,None,Subtropical,Forest,Natural,Evergreen,20.9,1956,1024,Rs,-2.155355369,3.010299957
+537,Dinghushan-MEBF,2003,1,23.15,112.54,260,None,None,Subtropical,Forest,Natural,Evergreen,20.9,1956,1163,Rs,-2.155355369,3.065579715
+566,Wudaoliang,2001,1,35.21666667,93.08333333,4767,None,None,Boreal,Grassland,Natural,Deciduous,-5.6,300,79.24,Rs,-2.976151339,1.898944467
+574,South China Botanical Garden,2007,1,23.333,113.5,,Fertilized,,Subtropical,Forest,Managed,Evergreen,21.5,1750,941,Rs,-2.121977397,2.973589623
+575,South China Botanical Garden,2007,1,23.333,113.5,,Fertilized,100 kgN/ha/yr,Subtropical,Forest,Managed,Evergreen,21.5,1750,963,Rs,-2.121977397,2.983626287
+576,South China Botanical Garden,2007,1,23.333,113.5,,CO2 Fertilized,700 ppm,Subtropical,Forest,Managed,Evergreen,21.5,1750,1208,Rs,-2.121977397,3.082066934
+577,South China Botanical Garden,2007,1,23.333,113.5,,CO2 Fertilized,"Fertilized, CO2 Fertilized 100 kgN/ha/yr, 700 ppm",Subtropical,Forest,Managed,Evergreen,21.5,1750,1407,Rs,-2.121977397,3.148294097
+582,Daxinganling,2004,3,50.93333333,121.5,810,None,,Boreal,Forest,Natural,Evergreen,-5.4,500,493,Rs,-2.462490846,2.692846919
+583,Changbaishan,2004,3,42.4,128.0833333,740,None,,Temperate,Forest,Natural,Deciduous,2.8,750,548,Rs,-2.191115555,2.738780558
+623,Yizhou State Forestry Centre,2003,1,26.41666667,117.8333333,,Clearcut,"Clearcut, slash burned",Subtropical,Forest,Managed,Evergreen,19.2,1688,386,Rs,-2.264854385,2.586587305
+624,Yizhou State Forestry Centre,2003,1,26.41666667,117.8333333,,None,None,Subtropical,Forest,Natural,Evergreen,19.2,1688,1269,Rs,-2.264854385,3.103461622
+627,Yizhou State Forestry Centre,2003,1,26.41666667,117.8333333,,Clearcut,"Clearcut, slash burned",Subtropical,Forest,Managed,Evergreen,19.2,1688,386,Rs,-2.264854385,2.586587305
+628,Yizhou State Forestry Centre,2003,1,26.41666667,117.8333333,,None,None,Subtropical,Forest,Natural,Evergreen,19.2,1688,1269,Rs,-2.264854385,3.103461622
+631,Yizhou State Forestry Centre,2003,1,26.41666667,117.8333333,,Clearcut,"Clearcut, slash burned",Subtropical,Forest,Managed,Evergreen,19.2,1688,386,Rs,-2.264854385,2.586587305
+632,Yizhou State Forestry Centre,2003,1,26.41666667,117.8333333,,None,None,Subtropical,Forest,Natural,Evergreen,19.2,1688,1269,Rs,-2.264854385,3.103461622
+633,Menglun Nature Reserve,2005,5,21.9275,101.2652778,750,None,None,Tropical,Forest,Natural,Mixed,21.7,1487,886,Rs,-2.287091167,2.947433722
+634,Changbai Mountains Forest Ecosystem Research Station,2004,3,42.4,128.1,748,None,None,Temperate,Forest,Natural,Evergreen,3.6,705,935.4,Rs,-2.194487941,2.970997366
+635,Changbai Mountains Forest Ecosystem Research Station,2004,3,42.4,128.1,746,None,None,Temperate,Forest,Natural,Deciduous,3.6,705,1477.9,Rs,-2.194487941,3.169645049
+636,Changbai Mountains Forest Ecosystem Research Station,2004,3,42.4,128.1,674,Plantation,Pinus koraiensis Siebold plantation,Temperate,Forest,Managed,Deciduous,3.6,705,830.7,Rs,-2.194487941,2.91944421
+640,Xilin River Basin,2006,1,43.5125,116.8272222,1343,None,None,Boreal,Grassland,Natural,Deciduous,-1.4,450,240.44,Rs,-2.066726043,2.381006719
+641,Xilin River Basin,2006,1,43.58888889,116.5541667,1130,None,None,Boreal,Grassland,Natural,Deciduous,-1.4,450,150.62,Rs,-2.100957284,2.177882643
+643,Xilin River Basin,2007,1,43.5125,116.8272222,1343,None,None,Boreal,Grassland,Natural,Deciduous,-1.4,450,223.62,Rs,-2.348222597,2.349510643
+644,Xilin River Basin,2007,1,43.58888889,116.5541667,1130,None,None,Boreal,Grassland,Natural,Deciduous,-1.4,450,176.84,Rs,-2.352876674,2.247580506
+645,Xilin River Basin,2007,1,44.08666667,115.9044444,970,None,None,Boreal,Grassland,Natural,Deciduous,-1.4,450,125.69,Rs,-2.306424356,2.099300726
+648,Saihanba Forestry Center,2006,1.5,42.5,117.35,1400,Fertilized,10 kg N m^-1 yr^-1,Boreal,Forest,Managed,Evergreen,-1.4,450.1,453,Rs,-2.003674936,2.656098202
+649,Saihanba Forestry Center,2006,1.5,42.5,117.35,1400,Fertilized,15 kg N m^-1 yr^-1,Boreal,Forest,Managed,Deciduous,-1.4,450.1,436,Rs,-2.003674936,2.639486489
+650,Saihanba Forestry Center,2006,1.5,42.5,117.35,1400,None,None,Boreal,Forest,Natural,Deciduous,-1.4,450.1,576,Rs,-2.003674936,2.760422483
+651,Saihanba Forestry Center,2006,1.5,42.5,117.35,1400,None,None,Boreal,Shrubland,Natural,Deciduous,-1.4,450.1,621,Rs,-2.003674936,2.7930916
+652,Saihanba Forestry Center,2006,1.5,42.5,117.35,1400,None,None,Boreal,Shrubland,Natural,Deciduous,-1.4,450.1,653,Rs,-2.003674936,2.814913181
+653,Saihanba Forestry Center,2006,1.5,42.5,117.35,1400,None,None,Boreal,Grassland,Natural,Deciduous,-1.4,450.1,495,Rs,-2.003674936,2.694605199
+654,Saihanba Forestry Center,2006,1.5,42.5,117.35,1400,None,None,Boreal,Grassland,Natural,Deciduous,-1.4,450.1,785,Rs,-2.003674936,2.894869657
+662,Tianjiling National Park,2007,1,28.1,113.0166667,80,Plantation,,Subtropical,Forest,Managed,Evergreen,17.2,1422,443,Rs,-2.35308924,2.646403726
+668,,2008,1,30.36666667,120,,Plantation,,Tropical,Forest,Managed,Evergreen,16.4,1629,1549,Rs,-2.074203838,3.190051418
+669,,2008,1,30.36666667,120,,Plantation,,Tropical,Forest,Managed,Evergreen,16.4,1629,1123,Rs,-2.074203838,3.050379756
+670,,2008,1,30.36666667,120,150,None,None,Tropical,Forest,Natural,Evergreen,16.4,1629,1151,Rs,-2.074203838,3.061075324
+676,Baiinxile Pasture,2007,1.5,43.55277778,116.6747222,1265,None,None,Boreal,Grassland,Natural,Deciduous,-0.4,400,194,Rs,-2.338221257,2.28780173
+677,Baiinxile Pasture,2007,1.5,43.55277778,116.6747222,1265,None,None,Boreal,Grassland,Natural,Deciduous,-0.4,400,195,Rs,-2.338221257,2.290034611
+678,Baiinxile Pasture,2007,1.5,43.55277778,116.6747222,1265,None,None,Boreal,Grassland,Natural,Deciduous,-0.4,400,157,Rs,-2.338221257,2.195899652
+679,Baiinxile Pasture,2007,1.5,43.55277778,116.6747222,1265,None,None,Boreal,Grassland,Natural,Deciduous,-0.4,400,127,Rs,-2.338221257,2.103803721
+680,Heshan Hilly Land Interdisciplinary Experimental Station,2007,1,22.56666667,112.8333333,,Understory removal,,Subtropical,Forest,Managed,Evergreen,21.7,1295,721,Rs,-2.025274407,2.857935265
+681,Heshan Hilly Land Interdisciplinary Experimental Station,2007,1,22.56666667,112.8333333,,Fertilized,,Subtropical,Forest,Managed,Evergreen,21.7,1295,608,Rs,-2.025274407,2.783903579
+686,Qianyanzhou Ecological Station,2007,1,26.74416667,115.0591667,102,Plantation,Pinus elliottii Engelm plantation,Subtropical,Forest,Managed,Evergreen,17.9,1469,725,Rs,-2.471383924,2.860338007
+688,Qianyanzhou Ecological Station,2009,1,26.74416667,115.0591667,102,Plantation,Pinus elliottii Engelm plantation,Subtropical,Forest,Managed,Evergreen,17.9,1469,730,Rs,-2.121112023,2.86332286
+700,Dagangshan Forest Station,2007,1,27.67,114.67,280,Plantation,Cunninghamia lanceolata plantation,Subtropical,Forest,Managed,Evergreen,16.8,1590,673,Rs,-2.568518255,2.828015064
+701,Dagangshan Forest Station,2007,1,27.67,114.67,280,Plantation,Cunninghamia lanceolata plantation,Subtropical,Forest,Managed,Evergreen,16.8,1590,1053,Rs,-2.568518255,3.022428371
+702,Dagangshan Forest Station,2007,1,27.67,114.67,300,Plantation,Cunninghamia lanceolata plantation,Subtropical,Forest,Managed,Evergreen,16.8,1590,1220,Rs,-2.568518255,3.086359831
+703,Dagangshan Forest Station,2007,1,27.67,114.67,300,Plantation,Cunninghamia lanceolata plantation,Subtropical,Forest,Managed,Evergreen,16.8,1590,1203,Rs,-2.568518255,3.080265627
+704,Dagangshan Forest Station,2007,1,27.67,114.67,300,Plantation,Cunninghamia lanceolata plantation,Subtropical,Forest,Managed,Evergreen,16.8,1590,870,Rs,-2.568518255,2.939519253
+705,Dinghushan Forest Ecosystem Research Station-PF,2007,3,23.17,112.6,250,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,961,Rs,-2.070828995,2.982723388
+707,Dinghushan Forest Ecosystem Research Station-BF,2009,3,23.17,112.6,260,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,1166,Rs,-2.049995669,3.06669855
+708,Dinghushan Forest Ecosystem Research Station-PF,2007,3,23.17,112.6,250,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,833,Rs,-2.070828995,2.920645001
+710,Dinghushan Forest Ecosystem Research Station-BF,2009,3,23.17,112.6,260,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,1158,Rs,-2.049995669,3.063708559
+713,Mt. Gonglushan,2010,1,36.42333333,109.5255,1353,Plantation,,Temperate,Forest,Managed,Deciduous,10.6,498,1044,Rs,-2.193073463,3.018700499
+714,Mt. Gonglushan,2010,1,36.42333333,109.5255,1353,None,None,Temperate,Forest,Natural,Deciduous,10.6,498,1393,Rs,-2.193073463,3.143951116
+734,Dinghushan Biosphere Reserve,2007,1,23.17,112.54,225,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,848,Rs,-2.063336465,2.928395852
+735,Dinghushan Biosphere Reserve,2007,1,23.17,112.54,225,None,None,Subtropical,Forest,Natural,Mixed,21.4,1956,1082,Rs,-2.063336465,3.034227261
+736,Dinghushan Biosphere Reserve,2007,1,23.17,112.54,225,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,1094,Rs,-2.063336465,3.039017322
+737,Dinghushan Biosphere Reserve,2007,1,23.17,112.54,225,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,416,Rs,-2.063336465,2.619093331
+738,Dinghushan Biosphere Reserve,2007,1,23.17,112.54,225,None,None,Subtropical,Forest,Natural,Mixed,21.4,1956,787,Rs,-2.063336465,2.895974732
+739,Dinghushan Biosphere Reserve,2007,1,23.17,112.54,225,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,810,Rs,-2.063336465,2.908485019
+740,Dinghushan Biosphere Reserve,2007,1,23.17,112.54,225,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,999,Rs,-2.063336465,2.999565488
+741,Dinghushan Biosphere Reserve,2007,1,23.17,112.54,225,None,None,Subtropical,Forest,Natural,Mixed,21.4,1956,1124,Rs,-2.063336465,3.050766311
+742,Dinghushan Biosphere Reserve,2007,1,23.17,112.54,225,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1956,1116,Rs,-2.063336465,3.047664195
+743,Zhangzhou Mangrove Nature Reserve,2011,1,24.4,117.91,,None,None,Subtropical,Wetland,Natural,,21,1371,650,Rs,-2.072693484,2.812913357
+749,,2006,1,37.73333333,112.3666667,,None,None,Temperate,Forest,Natural,Evergreen,10,413.9,1290,Rs,-2.049389621,3.11058971
+752,,2009,1,37.73333333,112.3666667,,None,None,Temperate,Forest,Natural,Evergreen,10,413.9,1343,Rs,-2.239991975,3.128076013
+754,,2006,1,37.73333333,112.3666667,,None,None,Temperate,Grassland,Natural,Deciduous,10,413.9,1272,Rs,-2.049389621,3.104487111
+757,,2009,1,37.73333333,112.3666667,,None,None,Temperate,Grassland,Natural,Deciduous,10,413.9,1555,Rs,-2.239991975,3.191730393
+764,Geshikao Nature Reserve,2011,1,26.18,117.47,315,None,None,Subtropical,Forest,Natural,,20.1,1670,1434,Rs,-2.351298722,3.156549151
+765,Geshikao Nature Reserve,2011,1,26.18,117.47,315,Plantation,Castanopsis carlesii plantation,Subtropical,Forest,Managed,,20.1,1670,1118,Rs,-2.351298722,3.048441804
+766,Mt Gonglushan,2011,2,26.423,109.526,1353,None,None,Temperate,Forest,Natural,Deciduous,10.1,504.7,900,Rs,-2.115245373,2.954242509
+767,Mt Gonglushan,2011,2,26.423,109.526,1353,None,None,Temperate,Forest,Natural,Deciduous,10.1,504.7,825,Rs,-2.115245373,2.916453949
+768,Mt Gonglushan,2011,2,26.423,109.526,1353,Plantation,R. pseudoacacia plantation,Temperate,Forest,Managed,Deciduous,10.1,504.7,660,Rs,-2.115245373,2.819543936
+769,Mt Gonglushan,2011,2,26.423,109.526,1353,None,None,Temperate,Shrubland,Natural,Deciduous,10.1,504.7,740,Rs,-2.115245373,2.86923172
+777,,2009,1,49.35,120.1,675,None,None,Temperate,Grassland,Natural,Deciduous,-2.4,350,488.47,Rs,-2.283299313,2.688837896
+779,,2010,1,29.5,103.6,,Plantation,,Temperate,Forest,Managed,Evergreen,15,1489.8,427,Rs,-2.196029425,2.630427875
+786,Quzhoi Experimental Station,2010,1,36.87,115.02,40,Irrigated,"Fertilized, irrigated Con.W/M",Temperate,Cropland,Managed,Deciduous,13.2,494,859,Rs,-2.23215477,2.933993164
+789,Quzhoi Experimental Station,2010,1,36.87,115.02,40,Irrigated,"Fertilized, irrigated Opt.W/M",Temperate,Cropland,Managed,Deciduous,13.2,494,1053,Rs,-2.23215477,3.022428371
+792,Quzhoi Experimental Station,2010,1,36.87,115.02,40,Irrigated,"Fertilized, irrigated W/M-M",Temperate,Cropland,Managed,Deciduous,13.2,494,1047,Rs,-2.23215477,3.019946682
+795,Quzhoi Experimental Station,2010,1,36.87,115.02,40,Irrigated,"Fertilized, irrigated W/S-M",Temperate,Cropland,Managed,Deciduous,13.2,494,892,Rs,-2.23215477,2.950364854
+798,Quzhoi Experimental Station,2010,1,36.87,115.02,40,Irrigated,"Fertilized, irrigated M",Temperate,Cropland,Managed,Deciduous,13.2,494,914,Rs,-2.23215477,2.960946196
+801,Changwu Station,2008,1,35.2,104.67,1200,Rotation,"rotations of wheat, legume, and maize",Temperate,Grassland,Managed,Deciduous,9.4,560,293,Rs,-2.005802254,2.46686762
+803,Changwu Station,2010,1,35.2,104.67,1200,Rotation,"rotations of wheat, legume, and maize",Temperate,Grassland,Managed,Deciduous,9.4,560,238,Rs,-2.038397947,2.376576957
+806,Changwu Station,2013,1,35.2,104.67,1200,Rotation,"rotations of wheat, legume, and maize",Temperate,Grassland,Managed,Deciduous,9.4,560,240,Rs,-2.326266644,2.380211242
+807,Changwu Station,2010,1,35.2,104.67,1095,None,None,Temperate,Forest,Natural,Deciduous,9.4,580,950,Rs,-2.038397947,2.977723605
+837,Huitong National Research Station of Forest Ecosystem,2011,1,26.8,109.6,,None,None,Subtropical,Forest,Natural,Evergreen,16.5,1200,511,Rs,-2.183345246,2.7084209
+838,Huitong National Research Station of Forest Ecosystem,2011,1,26.8,109.6,,None,None,Subtropical,Forest,Natural,Evergreen,16.5,1200,679,Rs,-2.183345246,2.831869774
+839,Huitong National Research Station of Forest Ecosystem,2011,1,26.8,109.6,,None,None,Subtropical,Forest,Natural,Evergreen,16.5,1200,395,Rs,-2.183345246,2.596597096
+840,Huitong National Research Station of Forest Ecosystem,2011,1,26.8,109.6,,None,None,Subtropical,Forest,Natural,Evergreen,16.5,1200,407,Rs,-2.183345246,2.609594409
+841,Huitong National Research Station of Forest Ecosystem,2011,1,26.8,109.6,,None,None,Subtropical,Forest,Natural,Evergreen,16.5,1200,338,Rs,-2.183345246,2.5289167
+847,Dinghushan Biosphere Reserve,2003,1,23.2,112.51,,None,None,Subtropical,Forest,Natural,Evergreen,20.5,1700,694,Rs,-2.165182101,2.84135947
+851,Dinghushan Biosphere Reserve,2007,1,23.2,112.51,,None,None,Subtropical,Forest,Natural,Evergreen,20.5,1700,732,Rs,-2.064086422,2.864511081
+853,Dinghushan Biosphere Reserve,2009,1,23.2,112.51,,None,None,Subtropical,Forest,Natural,Evergreen,20.5,1700,728,Rs,-2.09482056,2.862131379
+868,Fenghuo Mountain,2013,1,34.7,92.9,4700,None,None,Boreal,Grassland,Natural,Deciduous,-5.3,269.7,246,Rs,-2.548506985,2.390935107
+869,Fenghuo Mountain,2013,1,34.7,92.9,4700,None,None,Boreal,Grassland,Natural,Deciduous,-5.3,269.7,371,Rs,-2.548506985,2.56937391
+870,Dingmushan,2011,1,29.67,113.83,161,None,None,Subtropical,Forest,Natural,Evergreen,16.9,1430,897,Rs,-2.062870441,2.952792443
+871,Xishuangbanna,2012,2.5,21.92,101.27,568,None,None,Tropical,Forest,Natural,Evergreen,21.7,1487,693,Rs,-2.044952877,2.840733235
+872,Xishuangbanna,2012,2.5,21.92,101.27,568,None,None,Tropical,Forest,Natural,Evergreen,21.7,1487,855,Rs,-2.044952877,2.931966115
+880,West China Subalpine Botanical Garden,2010,1,30.73,103.45,,None,None,Subtropical,Forest,Natural,Evergreen,15.2,1243,1083.47,Rs,-2.278928232,3.034816891
+881,West China Subalpine Botanical Garden,2010,1,30.73,103.45,,None,None,Subtropical,Forest,Natural,Evergreen,15.2,1243,1363.3,Rs,-2.278928232,3.134591435
+906,Mt. Dongling,2014,3,39.95166667,115.4275,1350,Plantation,Betula platyphylla plantation,Tropical,Forest,Managed,Deciduous,4.8,611.9,574,Rs,-2.527452354,2.758911892
+907,Mt. Dongling,2014,3,39.95722222,115.4247222,1150,Plantation,Quercus wutaishanica plantation,Tropical,Forest,Managed,Deciduous,4.8,611.9,455,Rs,-2.524262832,2.658011397
+908,Mt. Dongling,2014,3,39.95944444,115.5277778,1050,Plantation,Pinus tabulaeformis plantation,Tropical,Forest,Managed,Evergreen,4.8,611.9,414,Rs,-2.484338941,2.617000341
+913,Miyaluo Experimental Forest,2008,1,31.78,102.7,3215,None,None,Temperate,Forest,Natural,Evergreen,7.27,687.3,1004,Rs,-2.469933232,3.001733713
+914,Miyaluo Experimental Forest,2008,1,31.78,102.7,3207,None,None,Temperate,Forest,Natural,Evergreen,7.27,687.3,792,Rs,-2.469933232,2.898725182
+915,Miyaluo Experimental Forest,2008,1,31.78,102.7,3135,None,None,Temperate,Forest,Natural,Evergreen,7.27,687.3,952,Rs,-2.469933232,2.978636948
+916,Miyaluo Experimental Forest,2008,1,31.78,102.7,3378,None,None,Temperate,Forest,Natural,Evergreen,7.27,687.3,1070,Rs,-2.469933232,3.029383778
+917,Tea Research Institute-HP,2011,1,30.23,120.15,,Fertilized,,Subtropical,Cropland,Managed,Evergreen,17,1533,540,Rs,-2.15434535,2.73239376
+918,Tea Research Institute-MP,2011,1,30.23,120.15,,Fertilized,,Subtropical,Cropland,Managed,Evergreen,17,1533,440,Rs,-2.15434535,2.643452676
+919,Tea Research Institute-LP,2011,1,30.23,120.15,,Fertilized,,Subtropical,Cropland,Managed,Evergreen,17,1533,430,Rs,-2.15434535,2.633468456
+920,Tea Research Institute-WL,2011,1,30.23,120.15,,Fertilized,,Subtropical,Cropland,Managed,Evergreen,17,1533,430,Rs,-2.15434535,2.633468456
+921,Tea Research Institute-VF,2011,1,30.23,120.15,,Fertilized,,Subtropical,Cropland,Managed,Evergreen,17,1533,520,Rs,-2.15434535,2.716003344
+926,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,782,Rs,-2.165864054,2.893206753
+927,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,784.1,Rs,-2.165864054,2.894371454
+928,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,785.7,Rs,-2.165864054,2.895256753
+929,Longwang Mountain,2011,1,32.2,118.72,,None,None,Subtropical,Forest,Natural,Mixed,15.6,1100,757.6,Rs,-2.165864054,2.879439966
+946,Wangdonggou,2013,1,35.22,107.67,1095,None,None,Temperate,Forest,Natural,Deciduous,9.4,560,961,Rs,-2.034163877,2.982723388
+947,Wangdonggou,2013,1,35.22,107.67,1095,None,None,Temperate,Grassland,Natural,Deciduous,9.4,560,605,Rs,-2.034163877,2.781755375
+948,Wangdonggou,2013,1,35.22,107.67,1095,Fertilized,,Temperate,Forest,Managed,Deciduous,9.4,560,554,Rs,-2.034163877,2.743509765
+949,Wangdonggou,2013,1,35.22,107.67,1095,Fertilized,,Temperate,Cropland,Managed,Deciduous,9.4,560,651,Rs,-2.034163877,2.813580989
+950,Maoxian Mountain Ecosystem Research Station,2010,3,31.62,103.9,,Thinned,CK,Temperate,Forest,Managed,Evergreen,8.9,900,450,Rs,-2.157125554,2.653212514
+951,Maoxian Mountain Ecosystem Research Station,2010,3,31.62,103.9,,Thinned,74 m^2,Temperate,Forest,Managed,Evergreen,8.9,900,454,Rs,-2.157125554,2.657055853
+952,Maoxian Mountain Ecosystem Research Station,2010,3,31.62,103.9,,Thinned,109 m^2,Temperate,Forest,Managed,Evergreen,8.9,900,439,Rs,-2.157125554,2.64246452
+956,Tianmu Mountain,2007,1,30.31666667,119.4416667,1506,Thinned,109 m^2,Subtropical,Forest,Managed,Evergreen,16.8,1420,761.1,Rs,-2.171739276,2.881441722
+957,Tianmu Mountain,2007,1,30.31666667,119.4416667,1506,Thinned,196 m^2,Subtropical,Forest,Managed,Deciduous,16.8,1420,1443.6,Rs,-2.171739276,3.159446873
+962,Beilu River Research Station,2013,1,34.81666667,92.93333333,4635,None,None,Boreal,Grassland,Natural,Deciduous,-5.1,294.5,851,Rs,-2.551125518,2.92992956
+963,Beilu River Research Station,2013,1,34.81666667,92.93333333,4635,None,None,Boreal,Grassland,Natural,Deciduous,-5.1,294.5,1060,Rs,-2.551125518,3.025305865
+964,Beilu River Research Station,2013,1,34.81666667,92.93333333,4635,None,None,Boreal,Grassland,Natural,Deciduous,-5.1,294.5,1060,Rs,-2.551125518,3.025305865
+965,Beilu River Research Station,2013,1,34.81666667,92.93333333,4635,None,None,Boreal,Grassland,Natural,Deciduous,-5.1,294.5,946,Rs,-2.551125518,2.975891136
+966,Experimental Center of Tropical Forestry,2009,1,22.16666667,106.8333333,,Plantation,Pinus massoniana plantation,Subtropical,Forest,Managed,Evergreen,21,1400,377,Rs,-2.083901689,2.57634135
+967,Experimental Center of Tropical Forestry,2009,1,22.16666667,106.8333333,,Plantation,Pinus massoniana and Castanopsis hystrix plantation,Subtropical,Forest,Managed,Mixed,21,1400,456,Rs,-2.083901689,2.658964843
+968,Experimental Center of Tropical Forestry,2009,1,22.16666667,106.8333333,,Plantation,Castanopsis hystrix plantation,Subtropical,Forest,Managed,Deciduous,21,1400,622,Rs,-2.083901689,2.793790385
+981,Forest Ecosystem Open Research Station of Changbai Mountains,2004,1,42.4,128.4666667,738,None,None,Temperate,Forest,Natural,Mixed,3.5,732,737.94,Rs,-2.232085963,2.868021052
+982,Tianlong Mountain Natural Reserve,2006,3,37.73333333,112.3666667,1443,None,None,Temperate,Forest,Natural,Evergreen,10,478,962.5,Rs,-2.049389621,2.983400738
+983,Tianlong Mountain Natural Reserve,2006,3,37.73333333,112.3666667,1443,None,None,Temperate,Forest,Natural,Evergreen,10,478,1027.5,Rs,-2.049389621,3.011781831
+984,Tianlong Mountain Natural Reserve,2006,3,37.73333333,112.3666667,1442,None,None,Temperate,Forest,Natural,Evergreen,10,478,1166.5,Rs,-2.049389621,3.066884743
+987,,2011,1,30.41666667,120.4333333,200,None,None,Subtropical,Forest,Natural,Deciduous,15.9,1450,755,Rs,-2.100780554,2.877946952
+988,,2011,1,30.41666667,120.4333333,200,None,None,Subtropical,Forest,Natural,Deciduous,15.9,1450,978,Rs,-2.100780554,2.990338855
+989,,2011,1,30.41666667,120.4333333,200,None,None,Subtropical,Forest,Natural,Deciduous,15.9,1450,1110,Rs,-2.100780554,3.045322979
+990,,2011,1,30.41666667,120.4333333,200,None,None,Subtropical,Forest,Natural,Deciduous,15.9,1450,1138,Rs,-2.100780554,3.056142262
+991,Shankou Township,2011,1,30.23333333,119.7,,Fertilized,,Subtropical,Cropland,Managed,Deciduous,15.8,1629,1238,Rs,-2.215852362,3.092720645
+992,Shankou Township,2011,1,30.23333333,119.7,,Fertilized,,Subtropical,Forest,Managed,Deciduous,15.8,1629,946,Rs,-2.215852362,2.975891136
+993,Shapotou,2007,1.5,32.53333333,105.0333333,1300,None,None,Temperate,Desert,Natural,Deciduous,10,186,33,Rs,-2.105479311,1.51851394
+994,Shapotou,2007,1.5,32.53333333,105.0333333,1300,None,None,Temperate,Desert,Natural,Deciduous,10,186,106,Rs,-2.105479311,2.025305865
+1000,Tianmu Mountain,2011,1,30.2,119.23,,None,None,Temperate,Forest,Natural,Evergreen,15.8,1400,571,Rs,-2.209817183,2.756636108
+1001,Tianmu Mountain,2011,1,30.2,119.23,,None,None,Temperate,Forest,Natural,Evergreen,15.8,1400,537,Rs,-2.209817183,2.729974286
+1002,Tianmu Mountain,2011,1,30.2,119.23,,None,None,Temperate,Forest,Natural,Evergreen,15.8,1400,677,Rs,-2.209817183,2.830588669
+1028,,2006,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,908,Rs,-2.011757806,2.958085849
+1029,,2006,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,1041,Rs,-2.011757806,3.01745073
+1030,,2006,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,1003,Rs,-2.011757806,3.001300933
+1031,,2006,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,984,Rs,-2.011757806,2.992995098
+1032,,2007,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,587,Rs,-2.065261431,2.768638101
+1033,,2007,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,814,Rs,-2.065261431,2.910624405
+1034,,2007,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,568,Rs,-2.065261431,2.754348336
+1035,,2007,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,605,Rs,-2.065261431,2.781755375
+1040,,2009,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,596,Rs,-2.104346982,2.77524626
+1041,,2009,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,833,Rs,-2.104346982,2.920645001
+1042,,2009,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,492,Rs,-2.104346982,2.691965103
+1043,,2009,1,42.18,116.8,1324,None,None,Temperate,Grassland,Natural,Evergreen,2.4,375,587,Rs,-2.104346982,2.768638101
+1063,Research and Education Farm,2014,4,34.82,114.28,73,Fertilized,,Temperate,Cropland,Managed,Deciduous,14.3,627,798,Rs,-2.108424531,2.902002891
+1064,Research and Education Farm,2014,4,34.82,114.28,73,Fertilized,,Temperate,Cropland,Managed,Deciduous,14.3,627,949,Rs,-2.108424531,2.977266212
+1065,Research and Education Farm,2014,4,34.82,114.28,73,Fertilized,,Temperate,Cropland,Managed,Deciduous,14.3,627,809,Rs,-2.108424531,2.907948522
+1066,Research and Education Farm,2014,4,34.82,114.28,73,Fertilized,,Temperate,Cropland,Managed,Deciduous,14.3,627,912,Rs,-2.108424531,2.959994838
+1067,Datong river basin,1998,1,37.62,101.32,3200,Grazing,light grazing,Arctic,Grassland,Managed,Evergreen,-1.7,580,663.02,Rs,-2.759122154,2.821526629
+1068,Datong river basin,1998,1,37.62,101.32,3200,Grazing,light grazing,Arctic,Grassland,Managed,Evergreen,-1.7,580,462.02,Rs,-2.759122154,2.664660776
+1069,Datong river basin,1998,1,37.62,101.32,3200,Grazing,heavy grazing,Arctic,Grassland,Managed,Evergreen,-1.7,580,660.63,Rs,-2.759122154,2.819958292
+1070,Datong river basin,1998,1,37.62,101.32,3200,Grazing,heavy grazing,Arctic,Grassland,Managed,Evergreen,-1.7,580,512.75,Rs,-2.759122154,2.709905669
+1076,Luanchen,1992,1,37.83,114.67,,Warmed,no N fertilizer and warming,Temperate,Cropland,Managed,Deciduous,12.2,536.7,487.64,Rs,-2.009477097,2.688099323
+1077,Luanchen,1992,1,37.83,114.67,,Fertilized,with mineral N fertilizer 315 kg N ha y and no warming,Temperate,Cropland,Managed,Deciduous,12.2,536.7,454.64,Rs,-2.009477097,2.657667643
+1078,Luanchen,1992,1,37.83,114.67,,Fertilized,with mineral N fertilizer 315 kg N ha y and no warming,Temperate,Cropland,Managed,Deciduous,12.2,536.7,444.27,Rs,-2.009477097,2.647646988
+1092,Dinghuashan,2009,1,23.15,112.51,200,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,1692.1,Rs,-2.073767784,3.228426025
+1093,Dinghuashan,2009,1,23.15,112.51,200,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,1346.5,Rs,-2.073767784,3.129206358
+1094,Dinghuashan,2009,1,23.15,112.51,250,None,None,Subtropical,Forest,Natural,Evergreen,21.4,1927,1415.9,Rs,-2.073767784,3.151032582
+1103,Tianlongshan,2006,3,37.87,112.55,1019,None,,Temperate,Shrubland,Natural,Deciduous,10,478.4,1169,Rs,-2.060477522,3.067814511
+1104,Tianlongshan,2006,3,37.87,112.55,1440,None,None,Temperate,Shrubland,Natural,Deciduous,10,478.4,1002,Rs,-2.060477522,3.000867722
+1106,Qinling,1998,1,33.38,108.33,,None,None,Subtropical,Forest,Natural,Evergreen,9,1000,2825.24,Rs,-2.126151659,3.451055346
+1107,Qinling,1998,1,33.38,108.33,,None,None,Subtropical,Forest,Natural,Deciduous,9,1000,2232.34,Rs,-2.126151659,3.348760341
+1113,Xishuangbanna,2003,1,21.93,101.27,720,None,None,Tropical,Forest,Natural,Evergreen,21.4,1557,949.09,Rs,-2.066229255,2.977307398
+1114,Xishuangbanna,2003,1,21.93,101.27,720,None,None,Tropical,Forest,Natural,Evergreen,21.4,1557,1273.64,Rs,-2.066229255,3.10504669
+1115,Xishuangbanna,2003,1,21.93,101.27,720,None,None,Tropical,Forest,Natural,Evergreen,21.4,1557,1456.36,Rs,-2.066229255,3.163268742
+1116,Muchuan county,2006,1,28.77,103.8,1300,None,None,Subtropical,Forest,Natural,Evergreen,12.8,1780,831,Rs,-2.306642475,2.919601024
+1119,Tianjiling Changsha,2007,1,28.1,113.02,70,None,None,Subtropical,Forest,Natural,Evergreen,17.2,1422,418.52,Rs,-2.353648344,2.621716217
+1120,Tianjiling Changsha,2007,1,28.1,113.02,70,None,None,Subtropical,Forest,Natural,Evergreen,17.2,1422,741.48,Rs,-2.353648344,2.870099441
+1121,Tianjiling Changsha,2007,1,28.1,113.02,70,None,None,Subtropical,Forest,Natural,Evergreen,17.2,1422,561.36,Rs,-2.353648344,2.749241464
+1135,Yulin,2009,1,38.77,110.37,1224,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,469.26,Rs,-2.364418816,2.671413536
+1136,Yulin,2009,1,38.77,110.37,1224,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,658.48,Rs,-2.364418816,2.818542589
+1137,Yulin,2009,1,38.77,110.37,1224,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,650.91,Rs,-2.364418816,2.813520944
+1138,Yulin,2009,1,38.77,110.37,1224,None,None,Temperate,Grassland,Natural,Deciduous,8.4,437,575.22,Rs,-2.364418816,2.759833978
+1139,Yulin,2009,1,38.77,110.37,1219,Fertilized,,Temperate,Grassland,Managed,Deciduous,8.4,437,473.04,Rs,-2.364418816,2.674897866
+1140,Yulin,2009,1,38.77,110.37,1223,Fertilized,,Temperate,Grassland,Managed,Deciduous,8.4,437,480.61,Rs,-2.364418816,2.681792803
+1141,Yulin,2009,1,38.77,110.37,1215,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,438.98,Rs,-2.364418816,2.642444734
+1142,Yulin,2009,1,38.77,110.37,1183,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,582.79,Rs,-2.364418816,2.765512091
+1143,Yulin,2009,1,38.77,110.37,1183,None,None,Temperate,Grassland,Natural,Deciduous,8.4,437,378.43,Rs,-2.364418816,2.577985558
+1144,Yulin,2009,1,38.77,110.37,1183,None,None,Temperate,Grassland,Natural,Deciduous,8.4,437,367.08,Rs,-2.364418816,2.564760723
+1145,Yulin,2009,1,38.77,110.37,1183,Fertilized,,Temperate,Cropland,Managed,Deciduous,8.4,437,514.67,Rs,-2.364418816,2.711528854
+1146,"Taiyuan, tianlongshan",2006,1,37.73,112.42,1443,None,None,Temperate,Forest,Natural,Evergreen,10,478,1422.62,Rs,-2.04855778,3.15308891
+1149,"Taiyuan, tianlongshan",2006,1,37.73,112.42,1443,None,None,Temperate,Grassland,Natural,Deciduous,10,478,1467.53,Rs,-2.04855778,3.166586988
+1152,"Taiyuan, tianlongshan",2006,1,37.73,112.42,1442,None,None,Temperate,Shrubland,Natural,Evergreen,10,478,1694.97,Rs,-2.04855778,3.229162016
+1156,Sanming,2003,1,26.26,117.64,,None,None,Subtropical,Forest,Natural,Evergreen,19.4,1605.9,1246.4,Rs,-2.288115547,3.09565744
+1158,Sanming,2003,1,26.26,117.64,,Plantation,,Subtropical,Forest,Managed,Evergreen,19.4,1605.9,842.7,Rs,-2.288115547,2.925672994
+1160,Sanming,2003,1,26.26,117.64,,Plantation,,Subtropical,Forest,Managed,Evergreen,19.4,1605.9,399.3,Rs,-2.288115547,2.60129931
+1164,Anyang,2002,1,36.5,114.2,,Rotation,winter-wheat and summer-corn rotation,Temperate,Cropland,Managed,Deciduous,14,700,264.66,Rs,-2.086435646,2.422688308
+1165,Anyang,2002,1,36.5,114.2,,Rotation,winter-wheat and summer-corn rotation,Temperate,Cropland,Managed,Deciduous,14,700,190.12,Rs,-2.086435646,2.279027806
+1166,Anyang,2002,1,36.5,114.2,,Rotation,winter-wheat and summer-corn rotation,Temperate,Cropland,Managed,Deciduous,14,700,177.27,Rs,-2.086435646,2.248635245
+1167,Anyang,2002,1,36.5,114.2,,Rotation,winter-wheat and summer-corn rotation,Temperate,Cropland,Managed,Deciduous,14,700,131.18,Rs,-2.086435646,2.117867627
+1184,Yangdongshan,2009,1,25.28,113.43,,None,None,Subtropical,Forest,Natural,Evergreen,19,1700,1083,Rs,-2.447153372,3.034628457
+1185,Yangdongshan,2009,1,25.28,113.43,,None,None,Subtropical,Forest,Natural,Evergreen,19,1700,1572,Rs,-2.447153372,3.196452542
+1189,Taihe,1999,1,26.74,115.07,,Plantation,,Subtropical,Forest,Managed,Evergreen,18.6,1361,932.45,Rs,-2.662735718,2.969625553
+1193,Tianjiling Changsha,2007,1,28.1,113.02,75,None,None,Subtropical,Forest,Natural,Evergreen,17.2,1422,495.75,Rs,-2.353648344,2.695262723
+1204,Maoxian mountain,2010,5,31.62,103.92,,Fertilized,with mineral N fertilizer 315 kgâˆ? N haâˆ? yâˆ? and no warming,Boreal,Forest,Managed,Evergreen,8.9,900,434.35,Rs,-2.149955633,2.637839826
+1205,Maoxian mountain,2010,5,31.62,103.92,,Fertilized,with mineral N fertilizer 315 kgâˆ? N haâˆ? yâˆ? and no warming,Boreal,Forest,Managed,Evergreen,8.9,900,438,Rs,-2.149955633,2.641474111
+1206,Maoxian mountain,2010,5,31.62,103.92,,Thinned,Intermediate,Boreal,Forest,Managed,Evergreen,8.9,900,423.4,Rs,-2.149955633,2.626750854
+1215,Wangdonggou,2013,1,35.22,107.67,1095,Fertilized,,Temperate,Forest,Managed,Deciduous,9.4,560,961,Rs,-2.034163877,2.982723388
+1216,Wangdonggou,2013,1,35.22,107.67,1095,Fertilized,,Temperate,Grassland,Managed,Deciduous,9.4,560,605,Rs,-2.034163877,2.781755375
+1217,Wangdonggou,2013,1,35.22,107.67,1095,Fertilized,,Temperate,Forest,Managed,Deciduous,9.4,560,554,Rs,-2.034163877,2.743509765
+1218,Wangdonggou,2013,1,35.22,107.67,1095,Fertilized,,Temperate,Cropland,Managed,Deciduous,9.4,560,651,Rs,-2.034163877,2.813580989
+1223,Tiantong National Forest Park,2011,2,29.87,121.65,200,Fertilized,CK,Subtropical,Forest,Managed,Evergreen,16,1374,949.87,Rs,-2.151359066,2.977664171
+1224,Tiantong National Forest Park,2011,2,29.87,121.65,200,Fertilized,Low,Subtropical,Forest,Managed,Evergreen,16,1374,1222.34,Rs,-2.151359066,3.087192024
+1225,Tiantong National Forest Park,2011,2,29.87,121.65,200,Fertilized,High,Subtropical,Forest,Managed,Evergreen,16,1374,1154.22,Rs,-2.151359066,3.062288595
+1226,Yanan,2010,2,36.42,109.53,1353,Plantation,,Temperate,Forest,Managed,Deciduous,10.1,504.7,1222.34,Rs,-2.193170466,3.087192024
+1227,Yanan,2010,2,36.42,109.53,1353,Plantation,,Temperate,Forest,Managed,Deciduous,10.1,504.7,1112.6,Rs,-2.193170466,3.046339056
+1228,Yanan,2010,2,36.42,109.53,1353,Plantation,,Temperate,Forest,Managed,Deciduous,10.1,504.7,889.32,Rs,-2.193170466,2.949058059
+1230,Yanan,2010,2,36.42,109.53,1353,None,,Temperate,Bare,Natural,Deciduous,10.1,504.7,768.22,Rs,-2.193170466,2.885485609
+1241,Gongga Mountain,2008,2,30,101.83,3050,None,None,Boreal,Forest,Natural,Evergreen,5.3,1900,908.24,Rs,-2.166109796,2.958200625
+1242,Gongga Mountain,2008,2,30,101.83,3050,None,None,Boreal,Forest,Natural,Evergreen,5.3,1900,643.34,Rs,-2.166109796,2.808440555
+1243,Gongga Mountain,2008,2,30,101.83,3050,None,None,Boreal,Forest,Natural,Evergreen,5.3,1900,1135.31,Rs,-2.166109796,3.055114463
+1265,Wangdonggou,2013,1,35.217,107.667,1220,Fertilized,"0.5m. 100kg/N/ha, 385kg/P/ha. 100kg/N/ha (both twice each year)",Temperate,Forest,Managed,Deciduous,9.4,560,770,Rs,-2.034601468,2.886490725
+1266,Wangdonggou,2013,1,35.217,107.667,1220,Fertilized,"2m. 100kg/N/ha, 385kg/P/ha. 100kg/N/ha (both twice each year)",Temperate,Forest,Managed,Deciduous,9.4,560,560,Rs,-2.034601468,2.748188027
+1304,Loess Plateau,2013,1,35.216,107.666,,Fertilized,0 kg N ha,Temperate,Cropland,Managed,Deciduous,9.4,560,579,Rs,-2.03474846,2.762678564
+1305,Loess Plateau,2013,1,35.216,107.666,,Fertilized,180kg N ha,Temperate,Cropland,Managed,Deciduous,9.4,560,681.18,Rs,-2.03474846,2.833261888
+1306,Loess Plateau,2013,1,35.216,107.666,,Fertilized,360kg N ha,Temperate,Cropland,Managed,Deciduous,9.4,560,537.38,Rs,-2.03474846,2.730281499
+1307,Loess Plateau,2013,1,35.216,107.666,,Fertilized,0kg N ha,Temperate,Cropland,Managed,Deciduous,9.4,560,885.54,Rs,-2.03474846,2.947208183
+1308,Loess Plateau,2014,1,35.216,107.666,,Fertilized,180kg N ha,Temperate,Cropland,Managed,Deciduous,9.4,560,586.57,Rs,-2.012588574,2.768319847
+1309,Loess Plateau,2014,1,35.216,107.666,,Fertilized,360kg N ha,Temperate,Cropland,Managed,Deciduous,9.4,560,715.24,Rs,-2.012588574,2.854451795
+1310,Loess Plateau,2014,1,35.216,107.666,,Fertilized,0kg N ha,Temperate,Cropland,Managed,Deciduous,9.4,560,544.95,Rs,-2.012588574,2.736356657
+1311,Loess Plateau,2014,1,35.216,107.666,,Fertilized,180kg N ha,Temperate,Cropland,Managed,Deciduous,9.4,560,756.87,Rs,-2.012588574,2.879021291
+1314,Xilin River,2014,1,44.8,116.033,,Irrigated,25 mL water,Temperate,Grassland,Managed,Deciduous,0.7,330,251.67,Rs,-2.237215635,2.400831449
+1315,Xilin River,2014,1,44.8,116.033,,Fertilized,"25 L of water and P added, 1 g P2O5 mâˆ? yrâˆ?",Temperate,Grassland,Managed,Deciduous,0.7,330,245.67,Rs,-2.237215635,2.390352126
+1316,Xilin River,2014,1,44.8,116.033,,Fertilized,"2 g N mâˆ? yrâˆ?, 1 g P2O5 mâˆ? yrâˆ?",Temperate,Grassland,Managed,Deciduous,0.7,330,241.34,Rs,-2.237215635,2.382629308
+1317,Xilin River,2014,1,44.8,116.033,,Fertilized,"5 g N mâˆ? yrâˆ?, 1 g P2O5 mâˆ? yrâˆ?",Temperate,Grassland,Managed,Deciduous,0.7,330,269.61,Rs,-2.237215635,2.430735996
+1318,Xilin River,2014,1,44.8,116.033,,Fertilized,"10 g N mâˆ? yrâˆ?, 1 g P2O5 mâˆ? yrâˆ?",Temperate,Grassland,Managed,Deciduous,0.7,330,269.03,Rs,-2.237215635,2.429800712
+1319,Xilin River,2014,1,44.8,116.033,,Fertilized,"25 g N mâˆ? yrâˆ?, 1 g P2O5 mâˆ? yrâˆ?",Temperate,Grassland,Managed,Deciduous,0.7,330,283.64,Rs,-2.237215635,2.452767477
+1332,National Forest Reserve ,2009,1,21.933,101.25,,None,None,Tropical,Forest,Natural,Evergreen,21.5,1557,1123,Rs,-2.054972378,3.050379756
+1339,Sun Yat-sen University,2011,1,23.103,113.294,,Fertilized,0 kg N ha year,Subtropical,Grassland,Managed,Evergreen,21.9,1735,919.8,Rs,-2.017970355,2.963693405
+1340,Sun Yat-sen University,2011,1,23.103,113.294,,Fertilized,100 kg N ha year,Subtropical,Grassland,Managed,Evergreen,21.9,1735,974.55,Rs,-2.017970355,2.988804126
+1341,Sun Yat-sen University,2011,1,23.103,113.294,,Fertilized,200 kg N ha year,Subtropical,Grassland,Managed,Evergreen,21.9,1735,1054.85,Rs,-2.017970355,3.023190707
+1379,Maoxian Mountain Ecosystem Research Station,2010,1,31.616,103.9,,Thinned,74 m^2,Temperate,Forest,Managed,Evergreen,8.9,900,646.05,Rs,-2.152304292,2.810266131
+1380,Maoxian Mountain Ecosystem Research Station,2010,1,31.616,103.9,,Thinned,109 m^2,Temperate,Forest,Managed,Evergreen,8.9,900,507.35,Rs,-2.152304292,2.705307665
+1381,Maoxian Mountain Ecosystem Research Station,2010,1,31.616,103.9,,Thinned,CK,Temperate,Forest,Managed,Evergreen,8.9,900,514.65,Rs,-2.152304292,2.711511977
+1382,Maoxian Mountain Ecosystem Research Station,2010,1,31.616,103.9,,Thinned,74 m^2,Temperate,Forest,Managed,Evergreen,8.9,900,518.3,Rs,-2.152304292,2.714581209
+1387,Haibei Grassland Ecological Monitoring Station,2011,1,36.95,100.85,3140,Warmed,CK,Temperate,Grassland,Managed,Deciduous,1.34,408.45,1379.7,Rs,-2.055476408,3.139784664
+1388,Haibei Grassland Ecological Monitoring Station,2011,1,36.95,100.85,3140,Warmed,,Temperate,Grassland,Managed,Deciduous,1.34,408.45,1353.24,Rs,-2.055476408,3.131374826
+1391,Haibei Grassland Ecological Monitoring Station,2013,1,36.95,100.85,3140,Warmed,CK,Temperate,Grassland,Managed,Deciduous,1.34,408.45,1561.14,Rs,-2.511989613,3.193441851
+1392,Haibei Grassland Ecological Monitoring Station,2013,1,36.95,100.85,3140,Warmed,,Temperate,Grassland,Managed,Deciduous,1.34,408.45,1408.05,Rs,-2.511989613,3.148618077
+1424,Changwu,2013,1,35.22,107.67,1095,Understory removal,Normal litter inputs,Temperate,Forest,Managed,Deciduous,9.4,580,965,Rs,-2.034163877,2.984527313
+1429,Changwu,2013,1,35.22,107.67,1095,Understory removal,litter removal,Temperate,Forest,Managed,Deciduous,9.4,580,843,Rs,-2.034163877,2.925827575
+1437,Lingbao Experimental Station,2014,1,34.51,110.98,,Rotation,,Temperate,Cropland,Managed,Deciduous,13.8,640,598.39,Rs,-2.005614943,2.776984327
+1438,Lingbao Experimental Station,2014,1,34.51,110.98,,Rotation,,Temperate,Cropland,Managed,Deciduous,13.8,640,703,Rs,-2.005614943,2.846955325
+1439,Lingbao Experimental Station,2014,1,34.51,110.98,,Rotation,,Temperate,Cropland,Managed,Deciduous,13.8,640,708,Rs,-2.005614943,2.850033258
+1440,Lingbao Experimental Station,2014,1,34.51,110.98,,No-till,,Temperate,Cropland,Managed,Deciduous,13.8,640,795,Rs,-2.005614943,2.900367129
+1441,Lingbao Experimental Station,2014,1,34.51,110.98,,No-till,,Temperate,Cropland,Managed,Deciduous,13.8,640,656,Rs,-2.005614943,2.816903839
+1442,Lingbao Experimental Station,2014,1,34.51,110.98,,No-till,,Temperate,Cropland,Managed,Deciduous,13.8,640,867,Rs,-2.005614943,2.938019097
+1443,Lingbao Experimental Station,2014,1,34.51,110.98,,Rotation,,Temperate,Cropland,Managed,Deciduous,13.8,640,865,Rs,-2.005614943,2.937016107
+1444,Lingbao Experimental Station,2014,1,34.51,110.98,,Rotation,,Temperate,Cropland,Managed,Deciduous,13.8,640,1048,Rs,-2.005614943,3.020361283
+1445,Lingbao Experimental Station,2014,1,34.51,110.98,,No-till,,Temperate,Cropland,Managed,Deciduous,13.8,640,903,Rs,-2.005614943,2.95568775
+1446,Lingbao Experimental Station,2014,1,34.51,110.98,,No-till,"No-till, mulching",Temperate,Cropland,Managed,Deciduous,13.8,640,1089,Rs,-2.005614943,3.03702788
+1447,Lingbao Experimental Station,2014,1,34.51,110.98,,No-till,"No-till, mulching",Temperate,Cropland,Managed,Deciduous,13.8,640,974,Rs,-2.005614943,2.988558957
+1448,Lingbao Experimental Station,2014,1,34.51,110.98,,No-till,"No-till, mulching",Temperate,Cropland,Managed,Deciduous,13.8,640,1085,Rs,-2.005614943,3.035429738
+1449,Lingbao Experimental Station,2014,1,34.51,110.98,,Rotation,,Temperate,Cropland,Managed,Deciduous,13.8,640,1210,Rs,-2.005614943,3.08278537
+1450,Lingbao Experimental Station,2014,1,34.51,110.98,,No-till,,Temperate,Cropland,Managed,Deciduous,13.8,640,996,Rs,-2.005614943,2.998259338
+1451,Lingbao Experimental Station,2014,1,34.51,110.98,,No-till,"No-till, mulching",Temperate,Cropland,Managed,Deciduous,13.8,640,1020,Rs,-2.005614943,3.008600172
+1455,Xianning city,2011,1,29.6,114.25,,Weed control,,Temperate,Forest,Managed,Evergreen,17.1,1496.2,861.82,Rs,-2.162236476,2.935416568
+1456,Xianning city,2011,1,29.6,114.25,,Weed control,,Temperate,Forest,Managed,Evergreen,17.1,1496.2,924.55,Rs,-2.162236476,2.965930403
+1477,Huitong Experimental Station of Forest Ecology,2013,1,26.92,109.98,700,Fertilized,CK,Subtropical,Cropland,Managed,Evergreen,16.5,1200,711.45,Rs,-2.469855595,2.852144384
+1478,Huitong Experimental Station of Forest Ecology,2013,1,26.92,109.98,700,Fertilized,,Subtropical,Cropland,Managed,Evergreen,16.5,1200,673.61,Rs,-2.469855595,2.828408526
+1530,Haibei,2009,1,37.6,101.3,3198,Grazing,Warm-season grazing,Alpine,Grassland,Managed,Deciduous,-1.1,486,873.8,Rs,-2.331973007,2.94141204
+1531,Haibei,2009,1,37.6,101.3,3198,Grazing,Warm-season grazing,Alpine,Grassland,Managed,Deciduous,-1.1,486,863.8,Rs,-2.331973007,2.9364132
+1538,Haibei,2013,1,37.6,101.3,3198,Grazing,Warm-season grazing,Alpine,Grassland,Managed,Deciduous,-1.1,486,828.9,Rs,-2.294977577,2.91850214
+1539,Haibei,2013,1,37.6,101.3,3198,Grazing,Warm-season grazing,Alpine,Grassland,Managed,Deciduous,-1.1,486,938.9,Rs,-2.294977577,2.972619339
+1556,Qianyanzhou Ecological Research Station,2007,12,26.74,115.05,102,None,None,Subtropical,Forest,Natural,Evergreen,18,1504.6,773.1,Rs,-2.472858838,2.888235673
+1563,Yuzhong,2014,1,36.03,104.41,2400,Warmed,"Warmed, fertilized",Temperate,Cropland,Managed,Deciduous,6.5,305,584,Rs,-2.133735904,2.766412847
+1564,Yuzhong,2014,1,36.03,104.41,2400,Warmed,,Temperate,Cropland,Managed,Deciduous,6.5,305,573.05,Rs,-2.133735904,2.758192517
+1565,Yuzhong,2014,1,36.03,104.41,2400,Fertilized,4.42 g m-2 yr-1,Temperate,Cropland,Managed,Deciduous,6.5,305,642.4,Rs,-2.133735904,2.807805532
+1566,Yuzhong,2014,1,36.03,104.41,2400,Fertilized,,Temperate,Cropland,Managed,Deciduous,6.5,305,576.7,Rs,-2.133735904,2.760949951
+1578,Nanweng River Forest Ecological Station,2006,1,51.4,125.45,463,None,None,Temperate,Forest,Natural,Evergreen,-3,425,920,Rs,-2.395926399,2.963787827
+1579,Nanweng River Forest Ecological Station,2006,1,51.4,125.45,463,None,None,Temperate,Forest,Natural,Evergreen,-3,425,680,Rs,-2.395926399,2.832508913
+1580,Nanweng River Forest Ecological Station,2006,1,51.4,125.45,463,None,None,Temperate,Forest,Natural,Evergreen,-3,425,585,Rs,-2.395926399,2.767155866
+1581,Hongya,2013,1,29.53,103.25,1600,None,None,Subtropical,Forest,Natural,Evergreen,10,2323,553.5,Rs,-2.156806774,2.743117625
+1582,Hongya,2013,1,29.53,103.25,1600,None,None,Subtropical,Forest,Natural,Evergreen,10,2323,520.4,Rs,-2.156806774,2.716337288
+1583,Hongya,2013,1,29.53,103.25,1600,None,None,Subtropical,Forest,Natural,Evergreen,10,2323,387.9,Rs,-2.156806774,2.58871978
+1618,Taoyuan agroecological experimental station,2007,1,28.91,111.45,,Rotation,,Subtropical,Cropland,Managed,Deciduous,16.5,1437,498,Rs,-2.010061874,2.697229343
+1625,Yucheng Comprehensive Experiment Station,2014,1,36.83,116.57,,Warmed,,Temperate,Cropland,Managed,Deciduous,13.4,567,670.04,Rs,-2.102943716,2.82610073
+1626,Yucheng Comprehensive Experiment Station,2014,1,36.83,116.57,,Conventional tillage,285 kg N haâ€? yrâ€?,Temperate,Cropland,Managed,Deciduous,13.4,567,607.45,Rs,-2.102943716,2.783510536
+1627,Yucheng Comprehensive Experiment Station,2014,1,36.83,116.57,,No-till,285 kg N haâ€? yrâ€?,Temperate,Cropland,Managed,Deciduous,13.4,567,637.09,Rs,-2.102943716,2.804200788
+1628,Yucheng Comprehensive Experiment Station,2014,1,36.83,116.57,,Warmed,,Temperate,Cropland,Managed,Deciduous,13.4,567,565.15,Rs,-2.102943716,2.752163732
+1645,Changwu,2013,1,35.21,107.67,1220,Fertilized,CK,Temperate,Cropland,Managed,Deciduous,9.4,560,461.16,Rs,-2.03513825,2.663851631
+1646,Changwu,2013,1,35.21,107.67,1220,Fertilized,160 kg N ha yr,Temperate,Cropland,Managed,Deciduous,9.4,560,559.44,Rs,-2.03513825,2.747753515
+1647,Changwu,2013,1,35.21,107.67,1220,Fertilized,160 kg N and 39 kg P ha yr,Temperate,Cropland,Managed,Deciduous,9.4,560,638.82,Rs,-2.03513825,2.805378504
+1648,Changwu,2014,1,35.21,107.67,1220,Fertilized,CK,Temperate,Cropland,Managed,Deciduous,9.4,560,464.94,Rs,-2.012689797,2.667396911
+1649,Changwu,2014,1,35.21,107.67,1220,Fertilized,160 kg N ha yr,Temperate,Cropland,Managed,Deciduous,9.4,560,612.36,Rs,-2.012689797,2.787006814
+1650,Changwu,2014,1,35.21,107.67,1220,Fertilized,160 kg N and 39 kg P ha yr,Temperate,Cropland,Managed,Deciduous,9.4,560,434.7,Rs,-2.012689797,2.63818964
+1664,Chenda Experimental Station,2011,1,26.2,117.6,,Plantation,Cunninghamia lanceolata plantation,Subtropical,Forest,Managed,Evergreen,19.1,1749,1421,Rs,-2.31140594,3.152594078
+1665,Chenda Experimental Station,2011,1,26.2,117.6,,Plantation,Pinus massoniana plantation,Subtropical,Forest,Managed,Evergreen,19.1,1749,837,Rs,-2.31140594,2.922725458
+1666,Chenda Experimental Station,2011,1,26.2,117.6,,Plantation,Castanopsis carlesii plantation,Subtropical,Forest,Managed,Evergreen,19.1,1749,907,Rs,-2.31140594,2.957607287
+1667,Nanjing Agricultural University Experimental Station,2011,1,32,118.05,6,None,None,Subtropical,Grassland,Natural,Deciduous,25,980,540,Rs,-2.203629279,2.73239376
+1668,Nanjing Agricultural University Experimental Station,2011,1,32,118.05,6,None,None,Subtropical,Grassland,Natural,Deciduous,25,980,1200,Rs,-2.203629279,3.079181246
+1669,Nanjing Agricultural University Experimental Station,2011,1,32,118.05,6,None,None,Subtropical,Grassland,Natural,Deciduous,25,980,1190,Rs,-2.203629279,3.075546961
+1680,,2014,1,45.1,120.3,656,None,None,Temperate,Grassland,Natural,Deciduous,2.1,395,847,Rs,-2.668791072,2.92788341
+1681,,2014,1,45.1,120.3,656,None,None,Temperate,Grassland,Natural,Deciduous,2.1,395,892,Rs,-2.668791072,2.950364854
+1684,,2013,1,43.6,116.7,1268,None,None,Temperate,Grassland,Natural,Deciduous,-0.3,293,847,Rs,-2.323664498,2.92788341
+1685,,2013,1,43.6,116.7,1268,None,None,Temperate,Grassland,Natural,Deciduous,-0.3,293,546,Rs,-2.323664498,2.737192643
+1686,,2014,1,43.6,116.7,1268,None,None,Temperate,Grassland,Natural,Deciduous,-0.3,293,563,Rs,-2.245914683,2.750508395
+1687,,2014,1,43.6,116.7,1268,None,None,Temperate,Grassland,Natural,Deciduous,-0.3,293,425,Rs,-2.245914683,2.62838893
+1692,,2014,1,41.8,111.9,1428,None,None,Temperate,Grassland,Natural,Deciduous,3.1,175,242,Rs,-2.727145431,2.383815366
+1693,,2014,1,41.8,111.9,1428,None,None,Temperate,Grassland,Natural,Deciduous,3.1,175,275,Rs,-2.727145431,2.439332694
+4,Haibei Research Station,1998.5,1,37.53,101.25,3240,Grazing,2.55 sheep/ha,Temperate,Grassland,Managed,Deciduous,-1.7,560,2844.921963,Rs,-2.200506983,3.454070358
+4,Haibei Research Station,1998.5,1,37.53,101.25,3240,Grazing,2.55 sheep/ha,Temperate,Grassland,Managed,Deciduous,-1.7,560,683.3606135,Rs,-2.57481432,2.834649944
+3,Inner Mongolia,2005,3,43.5125,116.827222,1343,None,,Temperate,Grassland,Natural,Deciduous,-1.4,450,513.3692902,Rs,-2.07298581,2.710429886
+3,Inner Mongolia,2005,3,43.5125,116.827222,1343,None,,Temperate,Grassland,Natural,Deciduous,-1.4,450,598.348519,Rs,-2.185787072,2.77695422
+6,Xinkou Experimental Forestry Centre,2001,1,26.19,117.43,,None,,Subtropical,Forest,Natural,Evergreen,19.1,1749,2685.988495,Rs,-2.507998527,3.429104148
+6,Xinkou Experimental Forestry Centre,2001,1,26.19,117.43,,None,,Subtropical,Forest,Natural,Evergreen,19.1,1749,1196.345908,Ra,-2.507998527,3.077856768
+8,Dinghushan Nature Reserve,2003.5,2,23.17,112.53,550,None,,Subtropical,Forest,Natural,Evergreen,21.4,1927,3964.141078,Rs,-2.279731158,3.598149102
+8,Dinghushan Nature Reserve,2003.5,2,23.17,112.53,550,None,,Subtropical,Forest,Natural,Evergreen,21.4,1927,2872.111581,Rs,-2.083825435,3.458201308
+14,Tianlongshan ,2005,2,37.706278,112.431889,829,None,,Temperate,Forest,Natural,Deciduous,9.5,473,1740.320467,Rs,-2.180415238,3.240629228
+14,Tianlongshan ,2005,2,37.706278,112.431889,829,None,,Temperate,Forest,Natural,Deciduous,9.5,473,1107.880704,Rs,-2.180415238,3.044492998
+23,Jilin Songnen Grassland Ecosystem National Field Scientific Observation and Research Station,2019,2,44.5,123.516667,138,None,,Temperate,Grassland,Natural,Deciduous,4.6,688,988.130063,Rs,-2.171873978,2.994814113
+23,Jilin Songnen Grassland Ecosystem National Field Scientific Observation and Research Station,2019,2,44.5,123.516667,138,None,,Temperate,Grassland,Natural,Deciduous,4.6,688,362.2830407,Ra,-2.171873978,2.559048004
+23,Jilin Songnen Grassland Ecosystem National Field Scientific Observation and Research Station,2019,2,44.5,123.516667,138,None,,Temperate,Grassland,Natural,Deciduous,4.6,688,625.8470225,Rh,-2.171873978,2.79646819
+24,Helan Mountain National Nature Reserve,2020,2,38.785333,105.917639,2250,None,,Temperate,Forest,Natural,Deciduous,,,626.2588659,Rs,-2.78984192,2.796753887
+26,Jiangxi Wuyishan National Nature Reserve,2019,2.7,27.803056,117.658333,1200,None,,Subtropical,Forest,Natural,Evergreen,13.2,1813,1284.843108,Rs,-2.181886774,3.108850099
+26,Jiangxi Wuyishan National Nature Reserve,2019,2.7,27.803056,117.658333,1200,None,,Subtropical,Forest,Natural,Evergreen,13.2,1813,320.3441126,Ra,-2.181886774,2.505616747
+26,Jiangxi Wuyishan National Nature Reserve,2019,2.7,27.803056,117.658333,1200,None,,Subtropical,Forest,Natural,Evergreen,13.2,1813,984.112416,Rh,-2.181886774,2.993044711
+27,Youyu Loess Plateau Grassland Ecosystem Location Observation and Research Station,2005,2,39.983333,112.316667,1348,None,,Temperate,Grassland,Managed,Deciduous,4.7,435,1466.581461,Rs,-2.154388984,3.166306191
+27,Youyu Loess Plateau Grassland Ecosystem Location Observation and Research Station,2005,2,39.983333,112.316667,1348,None,,Temperate,Grassland,Managed,Deciduous,4.7,435,495.6228956,Ra,-2.154388984,2.695151361
+27,Youyu Loess Plateau Grassland Ecosystem Location Observation and Research Station,2005,2,39.983333,112.316667,1348,None,,Temperate,Grassland,Managed,Deciduous,4.7,435,966.2035165,Rh,-2.154388984,2.985068614
+29,Fujian Sanming Forest Ecosystem and Global Change National Field Observation Station,2019,1.6,26.183333,117.466667,330,None,,Subtropical,Forest,Natural,Evergreen,19.1,1749,1081.825808,Rs,-2.012495135,3.034157338
+29,Fujian Sanming Forest Ecosystem and Global Change National Field Observation Station,2019,1.6,26.183333,117.466667,330,None,,Subtropical,Forest,Natural,Evergreen,19.1,1749,263.6745875,Ra,-2.012495135,2.421068275
+29,Fujian Sanming Forest Ecosystem and Global Change National Field Observation Station,2019,1.6,26.183333,117.466667,330,None,,Subtropical,Forest,Natural,Evergreen,19.1,1749,690.7767366,Rh,-2.012495135,2.839337703
+31,Grassland Ecosystem  of Inner Mongolia research station,2017,3,43.633333,116.7,1230,None,,Temperate,Grassland,Natural,Deciduous,0.4,337,573.3844209,Rs,-2.739804836,2.758445889
+31,Grassland Ecosystem  of Inner Mongolia research station,2017,3,43.633333,116.7,1230,None,,Temperate,Grassland,Natural,Deciduous,0.4,337,257.7478546,Ra,-2.739804836,2.411195059
+31,Grassland Ecosystem  of Inner Mongolia research station,2017,3,43.633333,116.7,1230,None,,Temperate,Grassland,Natural,Deciduous,0.4,337,344.5989922,Rh,-2.739804836,2.537314003
+37,Inner Mongolia University Ecology and Grassology Research base,2018,3,44.166667,116.466667,1160,None,,Temperate,Grassland,Managed,Deciduous,-1.5,271,740.2204115,Rs,-2.669446946,2.869361057
+37,Inner Mongolia University Ecology and Grassology Research base,2018,3,44.166667,116.466667,1160,None,,Temperate,Grassland,Managed,Deciduous,-1.5,271,234.5415251,Ra,-2.669446946,2.370219745
+37,Inner Mongolia University Ecology and Grassology Research base,2018,3,44.166667,116.466667,1160,None,,Temperate,Grassland,Managed,Deciduous,-1.5,271,505.6611456,Rh,-2.669446946,2.703859584
+42,Tiantongshan,2015,5,29.8,121.783333,300,None,,Subtropical,Forest,Natural,Deciduous,16.2,1551,1572.330246,Rs,-2.185007985,3.196543769
+46,Duolun County-upper slope,2006,4,42.45,116.67,1380,None,,Temperate,Grassland,Natural,Deciduous,2.1,385,704.633275,Rs,-2.011747108,2.847963148
+47,Shanxi,2018,1.8,36.85,109.31,1061,None,,Temperate,Grassland,Natural,Deciduous,9.5,525,749.3922142,Rs,-2.159976624,2.874709177
+48,Qinghai-Tibetan Plateau,2015,6,32.8,102.55,3500,None,,Temperate,Grassland,Natural,Deciduous,1.5,747,2644.599804,Rs,-2.117795033,3.422359961
+59,Shanxi,2003,4,35.216667,107.666667,1220,None,,Temperate,Cropland,Managed,Deciduous,9.4,560,742.1787309,Rs,-2.145837346,2.870508504
+60,Luan Chinese Academy of Sciences Urban Agricultural Ecosystem Experimental Station,2018,2,37.8,114.7,50.1,None,,Temperate,Cropland,Managed,Deciduous,12.8,536.8,1079.417198,Rs,-2.265864143,3.033189333
+63,Chinese Academy of Sciences Huitong Forest Ecological Experiment Station,2002,2,26.8,109.5,200,None,,Subtropical,Forest,Natural,Evergreen,16.5,1200,605.2633655,Rs,-2.843585312,2.781944388
+66,Field experiment of Lanzhou University Grassland Agricultural Science and Technology College,2008,2,37.12,106.82,,None,,Temperate,Grassland,Natural,Deciduous,7.1,359.3,498.89952,Rs,-2.444869565,2.698013086
+68,Qinghai-Tibetan Plateau,2012,6,31.733333,92.033333,4200,OTC,,Temperate,Grassland,Managed,Deciduous,0.3,462,408.3502131,Rs,-2.233551549,2.611032787
+73,Gutianshan,2009,3,29.138333,118.037222,375,None,,Subtropical,Forest,Natural,Evergreen,15.1,2000,749.5059791,Rs,-2.239917715,2.874775102
+73,Gutianshan,2009,3,29.138333,118.037222,375,None,,Subtropical,Forest,Natural,Evergreen,15.1,2000,526.6360728,Rh,-2.239917715,2.721510603
+77,shanxi,2011,2,37.65,111.516667,2708,None,,Temperate,Grassland,Natural,Deciduous,3,600,1562.615107,Rs,-2.365774285,3.193852019
+79,Inner Mongolia University Ecology and Grassology Research base,2011,2,44.166667,116.466667,1160,None,,Temperate,Grassland,Managed,Deciduous,-1.5,271,827.6176465,Rs,-2.197542851,2.917829742
+81,Hebei,2011,2,41.766667,115.683333,1380,None,,Temperate,Grassland,Natural,Deciduous,1,430,2154.53952,Rs,-2.07017617,3.333354465
+82,Hunan Botanical Garden,2010,3,28.1,113.033333,46,None,,Subtropical,Forest,Managed,Deciduous,17.2,1200,1366.17915,Rs,-2.275859616,3.135507653
+87,Gansu,2014,2,37.660617,102.3707,2600,None,,Temperate,Forest,Managed,Deciduous,,,3319.313268,Rs,-2.856972933,3.521048242
+88,Ningxia,2014,2,36.166667,106.35,1800,None,,Temperate,Grassland,Natural,Deciduous,7.01,450,871.3886753,Rs,-2.171100491,2.940211911
+88,Ningxia,2014,2,36.166667,106.35,1800,None,,Temperate,Grassland,Natural,Deciduous,7.01,450,377.0895585,Ra,-2.171100491,2.576444507
+88,Ningxia,2014,2,36.166667,106.35,1800,None,,Temperate,Grassland,Natural,Deciduous,7.01,450,546.8014753,Rh,-2.171100491,2.737829678
+89,Changwu Farmland Ecosystem National Field Scientific Observation and Research Station,2014,2,35.2,107.666667,1220,None,,Temperate,Cropland,Managed,Deciduous,9.1,584,245.5059524,Rs,-2.644666867,2.390062026
+96,Inner Mongolia,2014,3,37.648333,108.293333,1300,None,,Temperate,Grassland,Natural,Deciduous,7.9,333.7,167.0115542,Rs,-2.629802089,2.222746518
+101,Shaanxi Changwu Farmland Ecosystem National Field Scientific Observation and Research Station,2013,2015,35.216667,107.666667,1200,None,,Temperate,Cropland,Managed,Deciduous,9.4,564,561.1803131,Rs,-2.645132385,2.749102427
+102,Heibei,2013,3,42.033333,116.85,1042,None,,Temperate,Forest,Natural,Deciduous,-1.4,453,1058.917457,Rs,-2.065108933,3.024862108
+102,Heibei,2013,3,42.033333,116.85,1042,None,,Temperate,Forest,Natural,Deciduous,-1.4,453,368.2954286,Ra,-2.065108933,2.566196328
+104,Tianlongshan,2007,10,37.483333,122,1400,None,,Temperate,Grassland,Managed,Deciduous,10,460,1599.688392,Rs,-2.158904195,3.204035394
+107,Maoershan,2010,1.5,45.4167,127.667837,400,None,,Temperate,Forest,Natural,Deciduous,3.1,629,1135.466927,Rs,-2.047192627,3.055174489
+107,Maoershan,2010,1.5,45.4167,127.667837,400,None,,Temperate,Forest,Natural,Deciduous,3.1,629,777.6213541,Rh,-2.047192627,2.890768178
+110,Dinghushan Nature Reserve,2003.5,2,23.17,112.53,550,None,,Subtropical,Forest,Natural,Evergreen,21.4,1927,1739.910275,Rs,-2.279731158,3.240526853
+113,Changbai Mountain,2004,3,42.4,128.1,738,None,,Temperate,Forest,Natural,Evergreen,2.4,708,2642.842889,Rs,-2.217926004,3.422071346
+116,Daxinganling,2004,3,50.93333333,121.5,810,None,,Temperate,Forest,Natural,Evergreen,-5.4,500,1128.692308,Rs,-2.664072193,3.052575565
+116,Daxinganling,2004,3,50.93333333,121.5,810,None,,Temperate,Forest,Natural,Evergreen,-5.4,500,1179.230769,Rs,-2.07384496,3.071598803
+121,Liujiang,2008.5,2,30,103.6333333,600,None,,Subtropical,Forest,Managed,Evergreen,,,357.8591138,Rs,-2.068902407,2.553712082
+128,Mt Gonglushan,2011.5,2,36.4233,109.5255,1353,None,,Temperate,Forest,Natural,Deciduous,10.1,504.7,1354.581609,Rs,-2.129513835,3.131805175
+131,Heshan National Field Research Station of Forest Ecosystems-CP,2011,2,22.68,112.9,,None,,Subtropical,Forest,Managed,Evergreen,21.7,1700,902.7566471,Rh,-2.088688573,2.955570695
+132,CN-NN-CK,2012.5,2.5,21.92,101.27,568,None,,Tropical,Forest,Natural,Evergreen,21.7,1487,1094.162087,Rs,-2.06722372,3.039081662
+135,Grassland Ecosystem Research Station,2012,2,44.808,116.267,1505,None,,Temperate,Grassland,Managed,Deciduous,1.7,300,564.0400677,Rs,-2.213837356,2.751309956
+135,Grassland Ecosystem Research Station,2012,2,44.808,116.267,1505,None,,Temperate,Grassland,Managed,Deciduous,1.7,300,246.8288268,Ra,-2.213837356,2.392395879
+139,Nanjing Forestry University,2004,3,31.98,119.23,170,None,,Temperate,Forest,Managed,Deciduous,15.3,1055.6,654.4103435,Rs,-2.01695419,2.815850155
+140,HBAMERS,2011,3,37.6,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,2582.210266,Rs,-2.033275981,3.411991603
+141,IMGERS,2012,3,44,116.5,,None,,Temperate,Grassland,Managed,Deciduous,,,1039.228,Rs,-2.438029826,3.016710839
+141,IMGERS,2012,3,44,116.5,,None,,Temperate,Grassland,Managed,Deciduous,,,755.9879999,Rs,-2.1675933,2.878514902
+145,Inner Mongolia,2010,3,43.5,116.2,,None,,Temperate,Grassland,Managed,Deciduous,0.4,278.7,1040.081538,Rs,-2.423070443,3.017067388
+145,Inner Mongolia,2010,3,43.5,116.2,,None,,Temperate,Grassland,Managed,Deciduous,0.4,278.7,749.9907694,Rs,-2.058387637,2.875055918
+149,Jiangfengling,2014,4,18.71666667,108.8833333,870,None,,tropical,Forest,Natural,evergreen,19.8,2449,1393.857429,Rs,-2.341379062,3.144218354
+149,Jiangfengling,2014,4,18.71666667,108.8833333,870,None,,tropical,Forest,Natural,evergreen,19.8,2449,1549.51104,Rs,-2.010832084,3.190194675
+157,Xilinhot Field Research Station of Grassland Ecosystems,2012,3,44.166667,116.466667,1100,None,,Temperate,Grassland,Natural,Deciduous,3.37,322.6,1105.456877,Rs,-2.452860214,3.043541806
+157,Xilinhot Field Research Station of Grassland Ecosystems,2012,3,44.166667,116.466667,1100,None,,Temperate,Grassland,Natural,Deciduous,3.37,322.6,1188.208752,Rs,-2.136009723,3.074892747
+158,Inner Mongolia Grassland Ecosystem Research Station,2011,3,43.433333,116.066667,1100,None,,Temperate,Grassland,Natural,Deciduous,,,920.6854874,Rs,-2.010527183,2.964111298
+158,Inner Mongolia Grassland Ecosystem Research Station,2011,3,43.433333,116.066667,1100,None,,Temperate,Grassland,Natural,Deciduous,,,1755.283893,Rs,-2.346727449,3.244347368
+164,Haibei Alpine Grassland Ecosystem Research Station,2010,5,38.166667,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,1370.436749,Rs,-2.045320099,3.136858996
+164,Haibei Alpine Grassland Ecosystem Research Station,2010,5,38.166667,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,577.3708755,Ra,-2.045320099,2.761454873
+164,Haibei Alpine Grassland Ecosystem Research Station,2010,5,38.166667,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,830.4058672,Rh,-2.045320099,2.919290409
+164,Haibei Alpine Grassland Ecosystem Research Station,2010,5,38.166667,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,1341.152867,Rs,-2.027786613,3.127478282
+164,Haibei Alpine Grassland Ecosystem Research Station,2010,5,38.166667,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,636.634015,Ra,-2.027786613,2.803889839
+164,Haibei Alpine Grassland Ecosystem Research Station,2010,5,38.166667,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,870.7532021,Rh,-2.027786613,2.93989508
+164,Haibei Alpine Grassland Ecosystem Research Station,2010,5,38.166667,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,1261.775015,Rs,-2.145156711,3.100981923
+164,Haibei Alpine Grassland Ecosystem Research Station,2010,5,38.166667,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,644.9791736,Ra,-2.145156711,2.809545691
+164,Haibei Alpine Grassland Ecosystem Research Station,2010,5,38.166667,101.2,3200,None,,Temperate,Grassland,Natural,Deciduous,,,767.4750189,Rh,-2.145156711,2.885064248
+166,National Biochar Institute of Shenyang Agricultural University,2013,3,41.81666667,123.55,,None,,Temperate,Cropland,Managed,Deciduous,,,415.2293578,Rs,-2.003757218,2.618288052
+168,Mt Gonglushan,2011,3,36.423333,109.5255,1353,None,,Temperate,Forest,Natural,Deciduous,,,1360.438657,Rs,-2.129512375,3.133678964
+169,Tianjiling National Park,2007,2,28.1,113.016667,,None,,Temperate,Forest,Natural,Deciduous,,,517.7505789,Rs,-2.446226972,2.714120593
+172,Heshan  National Field Research Station of Forest Ecosystem,2009,3,22.61666667,112.8333333,,None,,Subtropical,Forest,Natural,Evergreen,,,792.551205,Rs,-2.08667728,2.899027331
+175,Shenyang National Experimental Station,2013,6,41.516667,123.366667,,None,,Temperate,Cropland,Managed,Deciduous,,,426.3769504,Rs,-2.194879021,2.629793719
+178,Heshan Ecological Station ,2008,2,22.57,112.83,61,None,,subtropical,Forest,Natural,Evergreen,,,1049.67576,Rs,-2.167559914,3.021055168
+179,Heshan Ecological Station ,2008,2,22.57,112.83,61,None,,subtropical,Forest,Natural,Evergreen,,,816.23052,Rs,-2.285461189,2.91181283
+187,Grassland Ecosystem Research Station of Inner Mongolia University,2011,2,44.8,116.033333,1505,None,,Temperate,Grassland,Natural,Deciduous,,,711.1726365,Rs,-2.223646032,2.851975038
+190,Dehui Experimental Station,2008,3,44.2,125.55,177,None,,Temperate,Cropland,Managed,Deciduous,,,3413.545304,Rs,-2.08360333,3.533205671
+191,National Forest Reserve in Menglun,,,21.933333,101.25,,None,,tropical,Forest,Natural,Evergreen,21.5,1557,3659.132241,Rs,-2.073216325,3.563378105
+191,National Forest Reserve in Menglun,,,21.933333,101.25,,None,,tropical,Forest,Natural,Evergreen,21.5,1557,2689.306001,Rh,-2.073216325,3.429640221
+198,Tiantongshan,,,29.8,121.783333,300,None,,Subtropical,Forest,Natural,Deciduous,16.2,1551,1379.913287,Rs,-2.260446412,3.139851796
+201,Haibei Alpine Meadow Ecosystem Research Station,,,37.616667,101.35,3250,None,,Temperate,Grassland,Natural,Deciduous,,,780.1067709,Rs,-2.062796406,2.892154047
+206,Xishuangbanna,2011,3,21.916667,101.266667,568,None,,tropical,Forest,Natural,Evengreen,,,1048.362955,Rs,-2.066746498,3.020511666
+208,wine-grape vineyard,,,39.75,119.083333,23,None,,Temperate,Shrubland,Managed,Deciduous,,,741.7936146,Rs,-2.223772374,2.870283091
+210,Yizhou State Forestry Centre,2001,3,26.116667,117.45,,None,,Subtropical,Forest,Natural,Evergreen,19.2,1687.5,868.5968902,Rs,-2.499544842,2.93881827
+211,Uygur Autonomous,2007,2,44.433333,81.383333,,None,,Temperate,Forest,Natural,Deciduous,9.4,221.3,1560.665302,Rs,-2.041851935,3.193309775
+215,Changbai Mountain,,,42.402778,128.096111,740,None,,Temperate,Forest,Natural,Evergreen,3.5,732,1317.162709,Rs,-2.119862043,3.119639427
+216,South China Botanical Garden,,,23.346111,113.512778,,None,,Subtropical,Forest,Natural,Evergreen,21.5,1600,1112.155,Rs,-2.191346167,3.046165319
+217,Zhaosu Basin,2015,2,40.92,81.05,,None,,Temperate,Grassland,Natural,Deciduous,4.1,490.1,3754.162361,Rs,-2.103778773,3.574513051
+221,Shennongjia,,,31.466667,110.3,2570,None,,Subtropical,Forest,Natural,Evergreen,,,750.3092136,Rs,-2.02715769,2.875240279
+221,Shennongjia,,,31.466667,110.3,2570,None,,Subtropical,Forest,Natural,Evergreen,,,171.3009191,Ra,-2.02715769,2.233759693
+221,Shennongjia,,,31.466667,110.3,2570,None,,Subtropical,Forest,Natural,Evergreen,,,569.0640962,Rh,-2.02715769,2.755161186
+225,Yellow River Delta Ecological Research Station,2010,3,23.155833,112.510833,,None,,Subtropical,Forest,Natural,Evergreen,223,1680,1222.466264,Rs,-2.079194158,3.087236883
+225,Yellow River Delta Ecological Research Station,2010,3,23.155833,112.510833,,None,,Subtropical,Forest,Natural,Evergreen,223,1680,773.7889811,Rh,-2.079194158,2.888622541
+227,Xisu Banner,,2,42.266667,112.783333,,None,,Temperate,Grassland,Natural,Deciduous,5.46,204,484.7200001,Rs,-2.007210968,2.68549094
+231,Yizhou State Forestry Centre,2001,3,26.116667,117.45,320,None,,Subtropical,Forest,Natural,Evergreen,19.2,1687,967.514625,Rs,-2.499544842,2.985657539
